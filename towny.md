@@ -21,7 +21,7 @@ Alla betalar olika mycket i skatt beroende på din stads inställningar, stadens
 Kolla hur mycket du betalar med kommandot  
 >---
 
-## Köp mark
+## Tomter
 
 ## Kommandon
 
