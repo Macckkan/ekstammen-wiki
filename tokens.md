@@ -12,6 +12,4 @@ Med dessa kan du köpa en Epic nyckel med kommandot /tokens
 	- När man röstar får man 200 tokens
 >- Kolla på någon av våra [streamers](https://ekstammen.nu/streamers.html) när dom är live
 	- Var med i utlottning av 100 tokens var 10e minut
->- Tävlingar
-	- Titt som tätt kommer tävlingar och giveaways. Allt syns på Discord.
 >---
