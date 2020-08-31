@@ -18,7 +18,7 @@
     },
 	subMaxLevel: 3,
 	name: 'Ekstammen Wiki',
-	repo: 'https://github.com/Macckkan/ekstammen-wiki',
+	//repo: 'https://github.com/Macckkan/ekstammen-wiki',
 	ga: 'UA-176308702-1',
 	search: 'auto', // default
 
@@ -38,7 +38,20 @@
       // Headline depth, 1 - 6
       depth: 6,
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-      }
+      },
+	  plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function (html) {
+          var url = 'https://github.com/Macckkan/ekstammen-wiki/blob/master' + vm.router.getFile()
+          var editHtml = '[📝 Redigera Dokument](' + url + ')\n'
+
+          return editHtml
+            + html
+            + '\n----\n'
+            + '<a href="https://ekstammen.nu" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Ekstammen 2020</a>'
+          })
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
