@@ -11,5 +11,3 @@ På [discord](https://discord.gg/ntfCax3) har vi en härlig community som du kan
 
 ---
 ### Ip: mc.ekstammen.nu
-
-Denna sida uppdateras nu direkt från Github
