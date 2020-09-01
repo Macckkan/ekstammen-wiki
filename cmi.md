@@ -13,5 +13,7 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 
 ### Hem
 >---
->Alla spelare kan ha upp till 5st hem till en början.
+>Alla spelare kan ha upp till 5st hem till en början.  
+>>Om man har EPIC ranken så kan man ha 10 hem.  
+
 >Om man vill sätta ett hem så skriver man /sethome och då hamnar hemmet på blocket du står på.
