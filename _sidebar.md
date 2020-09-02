@@ -10,7 +10,7 @@
 
 * [**Tider**](tider.md)
 
-* [**Ranker**](bilder/epic.md)
+* [**Ranker**](ranker/README.md)
 
 * [**Towny**](towny.md)
 		
