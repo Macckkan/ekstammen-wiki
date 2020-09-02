@@ -10,6 +10,8 @@
 
 * [**Tider**](tider.md)
 
+* [**Epic**](epic.md)
+
 * [**Towny**](towny.md)
 		
 * [**Jobs**](jobs.md)
