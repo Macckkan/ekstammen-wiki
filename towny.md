@@ -26,7 +26,6 @@ Kolla hur mycket du betalar med kommandot
 ## Kommandon
 
 ### /towny  
-
 *Visar alla /towny kommandon*
 >---
 >- **?** | Visar fler towny kommandon
@@ -37,7 +36,8 @@ Kolla hur mycket du betalar med kommandot
 >	- **land (all/resident/town)** | Visar en topplista på landägare
 >	- **residents (all/resident/town)** | Visar en topplista på invånare		
 >---
-### /plot *Visar alla /plot kommandon*
+### /plot  
+*Visar alla /plot kommandon*
 >---
 > Subkommando /p
 >- **claim** | Invånarkommando för att köpa en tomt som är till salu.
@@ -82,7 +82,8 @@ Kolla hur mycket du betalar med kommandot
 >	- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
 >	- **notforsale/nfs** | Gör att gruppen inte går att köpa
 >---
-### /resident *visar information om dig*
+### /resident  
+*Visar information om dig*
 >---
 > Subkommando /r
 >- **?** | Visar alla tillgängliga kommandon
@@ -113,7 +114,8 @@ Kolla hur mycket du betalar med kommandot
 >		- **reset** | Detta kommandot återställer alla dina tomter till inställningarna du har i /resident**
 >- **tax** | Visar hur mycket skatt du betalar
 >---
-### /town *Visar info om din stad*
+### /town  
+*Visar info om din stad*
 >---
 > Subkommando /t
 >- **?** | Visar alla tillgängliga /town kommandon
@@ -191,7 +193,8 @@ Kolla hur mycket du betalar med kommandot
 >	- **jail (nummer) (invånarnamn)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
 >	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger i så många dagar som du anger
 >---
-### /nation *Visar info om din nation*
+### /nation  
+*Visar info om din nation*
 >---
 > Subkommando /n
 >- **?** | Visar alla tillgängliga /nation kommandon
