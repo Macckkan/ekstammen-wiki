@@ -49,18 +49,18 @@ Kolla hur mycket du betalar med kommandot
 >- **perm** | Visar tillstånden på tomten du befinner dig i
 >- **perm hud** | Aktiverar/avaktiverar en scoreboard som visar tillstånd och info om tomten du befinner dig i
 >- **set** */plot set {subkommando}*
->	- **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
-> - **shop** | Ändrar en tomt till en Affärstomt
->	- **embassy** | Ändrar en tomt till en Ambassadtomt
->	- **arena** | Ändrar en tomt till en arenatomt
->	- **wilds** | Ändrar en tomt till en wildstomt
->	- **inn** | Ändrar en tomt till en inntomt
->	- **jail** | Ändrar en tomt till en fängelsetomt
->	- **farm** | Ändrar en tomt till en farmtomt
->	- **bank** | Ändrar en tomt till en banktomt
->	- **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
->	- **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
->	- **perm**
+>	 - **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
+>  - **shop** | Ändrar en tomt till en Affärstomt
+>	 - **embassy** | Ändrar en tomt till en Ambassadtomt
+>	 - **arena** | Ändrar en tomt till en arenatomt
+>	 - **wilds** | Ändrar en tomt till en wildstomt
+>	 - **inn** | Ändrar en tomt till en inntomt
+>	 - **jail** | Ändrar en tomt till en fängelsetomt
+>	 - **farm** | Ändrar en tomt till en farmtomt
+>	 - **bank** | Ändrar en tomt till en banktomt
+>	 - **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
+>	 - **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
+>	 - **perm**
 >		- **on/off** | Ändrar alla tillstånd på tomten du befinner dig i
 >		- **(resident/ally/outsider) on/off**
 >		- **(build/destroy/switch/itemuse) on/off**
