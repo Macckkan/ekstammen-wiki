@@ -21,7 +21,7 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 >---
 
 ### Kommandon
-*Alla kommandon börjar med **/***
+*Alla kommandon börjar med /*
 >---
 >- **fly** | Aktivera flygläget
 >- **flightcharge** | Kolla hur mycket flygtid du har
