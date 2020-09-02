@@ -12,6 +12,9 @@
 
 * [**Ranker**](ranker/README.md)
   * [**Epic**](ranker/epic.md)
+  * [**Chattvakt**](ranker/chattvakt.md)
+  * [**Mod**](ranker/mod.md)
+  * [**Admin**](ranker/admin.md)
 
 * [**Towny**](towny.md)
 		
