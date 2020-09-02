@@ -48,9 +48,9 @@ Kolla hur mycket du betalar med kommandot
 >- **evict** | Används till att ta bort en tomt från tomtägaren. Används av Borgmästaren eller en assistant
 >- **perm** | Visar tillstånden på tomten du befinner dig i
 >- **perm hud** | Aktiverar/avaktiverar en scoreboard som visar tillstånd och info om tomten du befinner dig i
->- **set**
+>- **set** */plot set {subkommando}*
 >	- **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
-> 	- **shop** | Ändrar en tomt till en Affärstomt
+> - **shop** | Ändrar en tomt till en Affärstomt
 >	- **embassy** | Ändrar en tomt till en Ambassadtomt
 >	- **arena** | Ändrar en tomt till en arenatomt
 >	- **wilds** | Ändrar en tomt till en wildstomt
