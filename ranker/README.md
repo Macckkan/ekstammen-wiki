@@ -2,7 +2,7 @@
 
 
 ### Epic
-[Epic](epic.md) ranken kan man få genom Epic kistan i spawn.  
+[Epic](/ranker/epic.md) ranken kan man få genom Epic kistan i spawn.  
 ![epic](../bilder/epiclicense.png)
 
 ### Chattvakt

@@ -11,6 +11,7 @@
 * [**Tider**](tider.md)
 
 * [**Ranker**](ranker/README.md)
+  * [**Epic**](ranker/epic.md)
 
 * [**Towny**](towny.md)
 		
