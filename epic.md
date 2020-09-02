@@ -17,4 +17,3 @@
   - /cplaytime
   - /colors  
   - /sort
-    - sdaas
