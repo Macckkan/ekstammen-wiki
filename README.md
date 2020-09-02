@@ -11,8 +11,7 @@ Vår [discord](https://discord.gg/ntfCax3) är en av grundpelarna i vår communi
 
 
 Här hittar du alla våra senaste nyheter, du kan posta förslag tankar och ideer och på så sätt påverka utvecklingen av minecraftservern.  
-
-[discord](https://discord.gg/ntfCax3) är också en suverän plats att få hjälp. Antingen frågar man direkt i en passande kanal eller så använder man vår supportbot genom kommandot !ticket.
+[Discord](https://discord.gg/ntfCax3) är också en suverän plats att få hjälp. Antingen frågar man direkt i en passande kanal eller så använder man vår supportbot genom kommandot !ticket.
 
 ---
 ### Rösta
