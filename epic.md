@@ -1,6 +1,6 @@
 # Epic
 
-### Fördelar m
+### Fördelar  
 - Ha upp till 10 hem.  
 - Sitt på trappor  
 - Sortera dina kistor enkelt  
