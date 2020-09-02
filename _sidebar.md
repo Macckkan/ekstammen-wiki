@@ -10,11 +10,7 @@
 
 * [**Tider**](tider.md)
 
-* **Ranker**
-  * [**Epic**](ranker/epic.md)
-  * [**Chattvakt**](ranker/chattvakt.md)
-  * [**Mod**](ranker/mod.md)
-  * [**Admin**](ranker/admin.md)
+* [**Ranker**](ranker/README.md)
 
 * [**Towny**](towny.md)
 		
