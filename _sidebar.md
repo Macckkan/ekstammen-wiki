@@ -10,7 +10,7 @@
 
 * [**Tider**](tider.md)
 
-* [**Ranker**](ranker/README.md)
+* **Ranker**
   * [**Epic**](ranker/epic.md)
   * [**Chattvakt**](ranker/chattvakt.md)
   * [**Mod**](ranker/mod.md)
