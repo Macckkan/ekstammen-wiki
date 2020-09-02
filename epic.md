@@ -1,8 +1,7 @@
 # Epic
 
 ### Fördelar
-- Hem  
-Med denna ranken kan man ha upp till 10 hem.  
+- Ha upp till 10 hem.  
 - Sitt på trappor  
 - Sortera dina kistor enkelt  
 - Skriv färgade meddelanden i chatten  
