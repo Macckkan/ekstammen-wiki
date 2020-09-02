@@ -51,7 +51,7 @@ Kolla hur mycket du betalar med kommandot
 >- **set**
 >	- **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
 > 	- **shop** | Ändrar en tomt till en Affärstomt
->	- **embassy** | Ändrar en tomt till en Ambassadtomt
+>	- **embassy** | /plot set embassy
 >	- **arena** | Ändrar en tomt till en arenatomt
 >	- **wilds** | Ändrar en tomt till en wildstomt
 >	- **inn** | Ändrar en tomt till en inntomt
