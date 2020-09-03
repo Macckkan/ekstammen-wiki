@@ -59,6 +59,8 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 >   - **all** | Sälj allt i ditt förråd som går att sälja
 >- **sit** | Sätt dig på blocket
 >- **spawn** | Teleportera till spawn
+>- **servertime** | Kolla serverns klocka
+>- **time** | Se världens tid
 >- **tpa (spelare)** | Skicka en teleport-förfrågan
 >- **tpaccept (spelare)** | Acceptera en teleport-förfrågan
 >- **tpdeny (spelare)** | Förneka en teleport-förfrågan
