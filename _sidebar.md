@@ -25,3 +25,5 @@
 * [**CMI**](cmi.md)
 
 * [**Nycklar**](nycklar.md)
+
+* [**Chattkommandon**](chattkommandon.md)
