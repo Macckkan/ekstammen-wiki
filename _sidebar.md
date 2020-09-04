@@ -24,6 +24,8 @@
 	
 * [**CMI**](cmi.md)
 
+* [**PlayerShopGui+**](playershopgui.md)
+
 * [**Nycklar**](nycklar.md)
 
 * [**Chattkommandon**](chattkommandon.md)
