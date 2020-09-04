@@ -5,8 +5,8 @@
 - **!bans** | Länkar till avstängningar
 - **!discord** *!dc* | Ger en inbjudan till vår discord
 - **!förslag** | Skickar ett meddelande om hur man ger förslag till servern
-- **!hemsida** | Länkar till hemsidan
-- **!karta** *!dynmap* | Länkar till dynmap
+- **!hemsida** | Länkar till [hemsidan](http://ekstammen.nu)
+- **!karta** *!dynmap* | Länkar till [dynmap](http://ekstammen.nu:8123)
 - **!towny** | Länkar till towny
 - **!lwc** | Länkar till lwc
 
