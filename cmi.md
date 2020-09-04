@@ -33,7 +33,7 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 >- **donate (spelare) (antal)** | Donera föremålet du har i handen
 >- **home (hemnamn)** | Teleportera dig till ditt hem
 >- **homes** | En lista på alla hem du kan teleportera dig till med ett klick
->- **sethome (hemnamn)** | Sätt ett nytt hem
+>- **sethome (hemnamn) (block|material)** | Sätt ett nytt hem *till exempel: **/sethome hem block** tar blocket du står på som ikon i /homes och **/sethome hem woodenshovel** sätter träspade som ikon*
 >- **removehome (hemnamn)** | Ta bort ett hem
 >- **ignore (spelare)** | Ignorera en spelare
 >- **inv (spelare)** | *invsee* Öppna en spelares förråd
