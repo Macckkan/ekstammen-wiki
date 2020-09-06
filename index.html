@@ -15,30 +15,29 @@
   <script>
 	window.$docsify = {
     loadSidebar: true,
-	alias: {
+	  alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
     },
-	subMaxLevel: 3,
-	name: 'Ekstammen Wiki',
-	//repo: 'https://github.com/Macckkan/ekstammen-wiki',
-	ga: 'UA-176950908-1',
-	search: 'auto', // default
-
+	  subMaxLevel: 2,
+	  name: 'Ekstammen Wiki',
+	  //repo: 'https://github.com/Macckkan/ekstammen-wiki',
+	  ga: 'UA-176950908-1',
+	  search: 'auto', // default
+    notFoundPage: {
+    '/': '_404.md',
+    },
     // complete configuration parameters
     search: {
       paths: 'auto', // or 'auto'
-      placeholder: 'Sök',
       // Localization
       placeholder: {
         '/': 'Sök'
       },
-      noData: 'Inga resultat!',
       // Localization
       noData: {
         '/': 'Inga resultat'
       },
       // Headline depth, 1 - 6
-      depth: 6,
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       },
 	  plugins: [

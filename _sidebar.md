@@ -10,7 +10,7 @@
 
 - [**Tider**](tider.md)
 
-- [**Ranker**](README.md)
+- [**Ranker**](ranker.md)
 
 - [**Tokens**](tokens.md)
 
@@ -23,6 +23,7 @@
   - [**NPC**](npc.md)
 
 - Plugins
+  
   - [**Towny**](towny.md)
   - [**Jobs**](jobs.md)
   - [**LWC**](lwc.md)
