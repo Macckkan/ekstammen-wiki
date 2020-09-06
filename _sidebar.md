@@ -12,19 +12,19 @@
 
 * [**Ranker**](ranker/README.md)
 
-* [**Towny**](towny.md)
+* [**Towny**](plugins/towny.md)
 		
-* [**Jobs**](jobs.md)
+* [**Jobs**](plugins/jobs.md)
 
-* [**LWC**](lwc.md)
+* [**LWC**](plugins/lwc.md)
 
 * [**Tokens**](tokens.md)
 	
-* [**ChestShop**](chestshop.md)
+* [**ChestShop**](plugins/chestshop.md)
 	
-* [**CMI**](cmi.md)
+* [**CMI**](plugins/cmi.md)
 
-* [**PlayerShopGui+**](playershopgui.md)
+* [**PlayerShopGui+**](plugins/playershopgui.md)
 
 * [**Nycklar**](nycklar.md)
 
