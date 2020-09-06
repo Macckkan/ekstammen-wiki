@@ -16,7 +16,7 @@
 
 - [**Chattkommandon**](chattkommandon.md)
 
-- Spawnguider
+- [Spawnguider](spawn/affär.md)
   
   - [**Affär**](affär.md)
   - [**Crates**](crates.md)
