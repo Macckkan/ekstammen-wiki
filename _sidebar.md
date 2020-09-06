@@ -6,18 +6,18 @@
 </p>
 </a>
 
-- [**Hem**](/)
+- [**<ins>Hem**](/)
 - [Tider](tider.md)
 - [Ranker](ranker.md)
 - [Tokens](tokens.md)
 - [Chattkommandon](chattkommandon.md)
 
-- [**Spawnguider**](spawn/README.md) 
+- [**<ins>Spawnguider**](spawn/README.md) 
   - [Affär](spawn/affär.md)
   - [Crates](spawn/crates.md)
   - [NPC](spawn/npc.md)
 
-- [**Plugins**](plugins/README.md)
+- [**<ins>Plugins**](plugins/README.md)
   - [Towny](plugins/towny.md)
   - [Jobs](plugins/jobs.md)
   - [LWC](plugins/lwc.md)
