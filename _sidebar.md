@@ -6,31 +6,31 @@
 </p>
 </a>
 
-* [**Hem**](/)
+- [**Hem**](/)
 
-* [**Tider**](tider.md)
+- [**Tider**](tider.md)
 
-* [**Ranker**](ranker/README.md)
+- [**Ranker**](ranker/README.md)
 
-* [**Towny**](plugins/towny.md)
+- [**Towny**](plugins/towny.md)
 		
-* [**Jobs**](plugins/jobs.md)
+- [**Jobs**](plugins/jobs.md)
 
-* [**LWC**](plugins/lwc.md)
+- [**LWC**](plugins/lwc.md)
 
-* [**Tokens**](tokens.md)
+- [**Tokens**](tokens.md)
 	
-* [**ChestShop**](plugins/chestshop.md)
+- [**ChestShop**](plugins/chestshop.md)
 	
-* [**CMI**](plugins/cmi.md)
+- [**CMI**](plugins/cmi.md)
 
-* [**PlayerShopGui+**](plugins/playershopgui.md)
+- [**PlayerShopGui+**](plugins/playershopgui.md)
 
-* [**Nycklar**](nycklar.md)
+- [**Nycklar**](nycklar.md)
 
-* [**Chattkommandon**](chattkommandon.md)
+- [**Chattkommandon**](chattkommandon.md)
 
-* **Spawnguider**
-    * [**Affär**](spawn/affär.md)
-    * [**Crates**](spawn/crates.md)
-    * [**NPC**](spawn/npc.md)
+- **Spawnguider**
+    - [**Affär**](spawn/affär.md)
+    - [**Crates**](spawn/crates.md)
+    - [**NPC**](spawn/npc.md)
