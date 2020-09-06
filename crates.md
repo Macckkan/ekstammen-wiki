@@ -5,7 +5,7 @@ Alla nycklar går att använda i /warp crates med undantag av hemlig nyckel.
 
 ## Vote
 >---
->När man [röstar](?id=rösta) får man en votenyckel.  
+>När man [röstar](/?id=rösta) får man en votenyckel.  
 >
 >---
 

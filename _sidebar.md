@@ -10,28 +10,22 @@
 
 - [**Tider**](tider.md)
 
-- [**Ranker**](ranker/README.md)
-
-- [**Towny**](plugins/towny.md)
-		
-- [**Jobs**](plugins/jobs.md)
-
-- [**LWC**](plugins/lwc.md)
+- [**Ranker**](README.md)
 
 - [**Tokens**](tokens.md)
-	
-- [**ChestShop**](plugins/chestshop.md)
-	
-- [**CMI**](plugins/cmi.md)
-
-- [**PlayerShopGui+**](plugins/playershopgui.md)
-
-- [**Nycklar**](nycklar.md)
 
 - [**Chattkommandon**](chattkommandon.md)
 
 - Spawnguider
+  
+  - [**Affär**](affär.md)
+  - [**Crates**](crates.md)
+  - [**NPC**](npc.md)
 
- - [**Affär**](spawn/affär.md)
- - [**Crates**](spawn/crates.md)
- - [**NPC**](spawn/npc.md)
+- Plugins
+  - [**Towny**](towny.md)
+  - [**Jobs**](jobs.md)
+  - [**LWC**](lwc.md)
+  - [**ChestShop**](chestshop.md)
+  - [**CMI**](cmi.md)
+  - [**PlayerShopGui+**](playershopgui.md)

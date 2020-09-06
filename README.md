@@ -16,7 +16,7 @@ Discord är också en suverän plats att få hjälp. Antingen frågar man direkt
 ---
 ### Rösta
 [Rösta](https://minecraft-mp.com/server/243250/vote/) på servern är ett enkelt och gratis sätt att hjälpa oss att växa som community och spelserver.  
-Förutom att du enkelt hjälper oss så får du också som tack [tokens](/tokens), pengar, en [votenyckel](nycklar?id=vote) & [flygtid](cmi?id=flygtid).  
+Förutom att du enkelt hjälper oss så får du också som tack [tokens](tokens.md), pengar, en [votenyckel](nycklar?id=vote) & [flygtid](cmi?id=flygtid).  
 
 ---
 ### Ip: mc.ekstammen.nu

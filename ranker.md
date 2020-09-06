@@ -3,7 +3,7 @@
 
 ### Epic
 Epic ranken kan man få genom Epic kistan i spawn.  
-![epic](../bilder/epiclicense.png)
+![epic](bilder/epiclicense.png)
 
  **Fördelar**  
 - Ha upp till 10 hem.  

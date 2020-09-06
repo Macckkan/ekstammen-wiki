@@ -1,7 +1,7 @@
 # PlayerShopGUI+
 
 Här kan du blädda bland alla spelares affärer, föremål och bläddra bland kategorier  
-![affär](../bilder/pshop.png)
+![affär](bilder/pshop.png)
 
 ### Kommandon
 - **/pshop** | Öppna menyn  
