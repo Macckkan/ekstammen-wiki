@@ -18,9 +18,9 @@
 
 - [Spawnguider](spawn/affär.md)
   
-  - [**Affär**](affär.md)
-  - [**Crates**](crates.md)
-  - [**NPC**](npc.md)
+  - [**Affär**](spawn/affär.md)
+  - [**Crates**](spawn/crates.md)
+  - [**NPC**](spawn/npc.md)
 
 - [Plugins](plugins/README.md)
   
