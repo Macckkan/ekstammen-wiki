@@ -22,7 +22,7 @@
   - [**Crates**](crates.md)
   - [**NPC**](npc.md)
 
-- Plugins
+- [Plugins](plugins/README.md)
   
   - [**Towny**](towny.md)
   - [**Jobs**](jobs.md)
