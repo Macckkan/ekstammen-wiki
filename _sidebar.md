@@ -7,10 +7,10 @@
 </a>
 
 - [**<ins>Hem**](/)
-- [Tider](tider.md)
-- [Ranker](ranker.md)
-- [Tokens](tokens.md)
-- [Chattkommandon](chattkommandon.md)
+  - [Tider](tider.md)
+  - [Ranker](ranker.md)
+  - [Tokens](tokens.md)
+  - [Chattkommandon](chattkommandon.md)
 
 - [**<ins>Spawnguider**](spawn/README.md) 
   - [Affär](spawn/affär.md)
