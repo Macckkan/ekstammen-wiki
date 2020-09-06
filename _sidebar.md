@@ -24,9 +24,9 @@
 
 - [Plugins](plugins/README.md)
   
-  - [**Towny**](towny.md)
-  - [**Jobs**](jobs.md)
-  - [**LWC**](lwc.md)
-  - [**ChestShop**](chestshop.md)
-  - [**CMI**](cmi.md)
-  - [**PlayerShopGui+**](playershopgui.md)
+  - [**Towny**](plugins/towny.md)
+  - [**Jobs**](plugins/jobs.md)
+  - [**LWC**](plugins/lwc.md)
+  - [**ChestShop**](plugins/chestshop.md)
+  - [**CMI**](plugins/cmi.md)
+  - [**PlayerShopGui+**](plugins/playershopgui.md)
