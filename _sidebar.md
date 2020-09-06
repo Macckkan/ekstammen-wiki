@@ -29,3 +29,8 @@
 * [**Nycklar**](nycklar.md)
 
 * [**Chattkommandon**](chattkommandon.md)
+
+* **Spawnguider**
+    * [**Affär**](spawn/affär.md)
+    * [**Crates**](spawn/crates.md)
+    * [**NPC**](spawn/npc.md)
