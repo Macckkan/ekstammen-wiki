@@ -12,12 +12,12 @@
   - [Tokens](tokens.md)
   - [Chattkommandon](chattkommandon.md)
 
-- [**<ins>Spawnguider**](/) 
+- [**<ins>Spawnguider**](README.md) 
   - [Affär](spawn/affär.md)
   - [Crates](spawn/crates.md)
   - [NPC](spawn/npc.md)
 
-- [**<ins>Plugins**](/)
+- [**<ins>Plugins**](README.md)
   - [Towny](plugins/towny.md)
   - [Jobs](plugins/jobs.md)
   - [LWC](plugins/lwc.md)
