@@ -17,7 +17,7 @@
   - [Crates](spawn/crates.md)
   - [NPC](spawn/npc.md)
 
-- [**<ins>Plugins**](README.md)
+- [**<ins>Plugins**](plugins/README.md)
   - [Towny](plugins/towny.md)
   - [Jobs](plugins/jobs.md)
   - [LWC](plugins/lwc.md)
