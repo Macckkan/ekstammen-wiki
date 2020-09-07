@@ -22,6 +22,7 @@ Kolla hur mycket du betalar med kommandot
 >---
 
 ## Tomter
+Info kommer snart
 
 ## Kommandon
 
