@@ -2,7 +2,7 @@
 Tokens är vår egen valuta på servern.  
 Med dessa kan du köpa en Epic nyckel med kommandot /tokens
    
-### På följande sätt kan man få tokens
+### <ins>På följande sätt kan man få tokens
 >---
 >- Vara aktiv *(återkommande)*
 	- Var 30e minut får man 50 tokens

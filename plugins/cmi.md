@@ -1,6 +1,6 @@
 # CMI
 
-### Flygtid
+## <ins>Flygtid
 >---
 >![Flygtid](../bilder/flygtid.png)  
 >När man röstar får man **1h/3600 sekunder** flygtid.  
@@ -11,7 +11,7 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 >
 >---
 
-### Hem
+## <ins>Hem
 >---
 >Alla spelare kan ha upp till 5st hem till en början.  
 >Om man har EPIC ranken så kan man ha 10 hem.  
@@ -20,7 +20,7 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 >
 >---
 
-### Kommandon
+## <ins>Kommandon
 *Alla kommandon börjar med /*
 >---
 >- **fly** | Aktivera flygläget

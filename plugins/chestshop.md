@@ -1,7 +1,7 @@
 # ChestShop
 Detta plugin tillåter spelarna att skapa egna affärer med hälp av en kista och en skylt
 
-### Skapa en affär
+## <ins>Skapa en affär
 >---
 >För att skapa en affär så behöver du göra följande:  
 >1. Placera en kista och lägg i det du vill sälja  
