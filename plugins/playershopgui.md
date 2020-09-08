@@ -5,4 +5,4 @@ Här kan du blädda bland alla spelares affärer, föremål och bläddra bland k
 
 ## <ins>Kommandon
 - **/pshop** | Öppna menyn  
-- **/pshop sell [kvantitet] (pris)** | lägger ut föremål till salu
+- **/pshop sell [kvantitet] (pris)** | Lägger ut föremål till salu. Föremålen ligger kvar i butiken i 7 dagar
