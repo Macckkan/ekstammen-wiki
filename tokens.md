@@ -14,4 +14,3 @@ Med dessa kan du köpa en Epic nyckel med kommandot /tokens
 	- Var med i utlottning av 100 tokens var 10e minut
 >- Tävlingar
  	- Titt som tätt kommer tävlingar och giveaways. Allt syns på Discord.
->---

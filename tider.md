@@ -5,4 +5,3 @@
 - Världarna sparas var 10e minut.
 - Skatt dras från städer och invånare kl 12:00 varje dag.
 - Du kan rösta var 24e timme.
----
