@@ -67,5 +67,5 @@ Den tiden du inte förbrukas sparas
 >- **tpdeny (spelare)** | Förneka en teleport-förfrågan
 >- **votetop** | Kolla vem som röstat mest
 >- **warp (warpnamn)** | Teleportera till en warp
->- **worth (block/föremål)** | Kolla vad föremålet är värt
+>- **worth (all/block/föremål/hand)** | Kolla vad föremålet är värt
 >---
