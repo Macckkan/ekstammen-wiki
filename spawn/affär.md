@@ -1,5 +1,5 @@
 # Affären
-
+---
 <img src="../bilder/affär.png" alt="Affär" width="200"/>
 
 I spawn finns det en affär.  
@@ -13,3 +13,4 @@ Den kan du komma till snabbast genom att skriva **/warp shop**
 
 - Om du klickar på "Köp mer" så kan du köpa upp till 9 stacks på en gång  
 <img src="../bilder/affärstack.png" alt="Affär" width="300"/>
+---
