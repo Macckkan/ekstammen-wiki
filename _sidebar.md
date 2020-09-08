@@ -10,6 +10,7 @@
   - [Tider](tider.md)
   - [Ranker](ranker.md)
   - [Tokens](tokens.md)
+  - [Q&A](frågor.md)
   - [Chattkommandon](chattkommandon.md)
 
 - [**<ins>Spawnguider**](README.md) 
