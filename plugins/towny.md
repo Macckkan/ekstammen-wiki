@@ -35,7 +35,8 @@ Info kommer snart
 >- **time** | Visar hur lång tid det är kvar tills skatter från invånare och städer dras
 >- **top**
 >	- **land (all/resident/town)** | Visar en topplista på landägare
->	- **residents (all/resident/town)** | Visar en topplista på invånare		
+>	- **residents (all/resident/town)** | Visar en topplista på invånare  
+>- **universe** - Visar all towny statistik, invånare/städer/nationer/världar räknar också köpta stadstomter.	
 >---
 ### /plot  
 *Visar alla /plot kommandon*
@@ -45,22 +46,28 @@ Info kommer snart
 >	- **auto** | Invånarkommando för att köpa en yta runt spelaren som skriver kommandot med tomter som är till salu
 >- **unclaim** | Invånarkommando för att sälja personliga tomter
 >	- **circle/rekt** | Sälj i form av cirkel eller rektangel
->		- **# (radie runt din nuvarande position)** | Radien på ytan som du vill sälja
+>		- **# (radie runt din nuvarande position)** | Radien på ytan som du vill sälja  
+>- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
+>   - **circle/rect** - Anger form  
+>       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
+>- **notforsale/nfs** | Gör att gruppen inte går att köpa
+>   - **circle/rect** - Anger form  
+>       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
 >- **evict** | Används till att ta bort en tomt från tomtägaren. Används av Borgmästaren eller en assistant
 >- **perm** | Visar tillstånden på tomten du befinner dig i
 >- **perm hud** | Aktiverar/avaktiverar en scoreboard som visar tillstånd och info om tomten du befinner dig i
 >- **set** */plot set {subkommando}*
->	 - **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
->  - **shop** | Ändrar en tomt till en Affärstomt
->	 - **embassy** | Ändrar en tomt till en Ambassadtomt
->	 - **arena** | Ändrar en tomt till en arenatomt
->	 - **wilds** | Ändrar en tomt till en wildstomt
->	 - **inn** | Ändrar en tomt till en inntomt
->	 - **jail** | Ändrar en tomt till en fängelsetomt
->	 - **farm** | Ändrar en tomt till en farmtomt
->	 - **bank** | Ändrar en tomt till en banktomt
->	 - **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
->	 - **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
+>   - **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
+>   - **shop** | Ändrar en tomt till en Affärstomt
+>	- **embassy** | Ändrar en tomt till en Ambassadtomt
+>   - **arena** | Ändrar en tomt till en arenatomt
+>	- **wilds** | Ändrar en tomt till en wildstomt
+>	- **inn** | Ändrar en tomt till en inntomt
+>	- **jail** | Ändrar en tomt till en fängelsetomt
+>	- **farm** | Ändrar en tomt till en farmtomt
+>	- **bank** | Ändrar en tomt till en banktomt
+>	- **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
+>	- **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
 >	 - **perm**
 >		- **on/off** | Ändrar alla tillstånd på tomten du befinner dig i
 >		- **(resident/ally/outsider) on/off**
@@ -81,7 +88,11 @@ Info kommer snart
 >	- **set perm ...** | Används till att ställa in tillstånd för gruppen du befinner dig i. Se sektionen ovan för /plot set perm
 >	- **toggle ...** | Används för att ändra grupp inställningar. Se sektionen ovan för /plot toggle
 >	- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
+>       - **circle/rect** - Anger form  
+>           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
 >	- **notforsale/nfs** | Gör att gruppen inte går att köpa
+>       - **circle/rect** - Anger form  
+>           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
 >---
 ### /resident  
 *Visar information om dig*
@@ -153,8 +164,8 @@ Info kommer snart
 >- **outlawlist (stad)** | Visar en lista på kriminella i staden
 >- **outlaw (add/remove) (namn)** | Lägg till eller ta bort en kriminell från listan
 >- **outpost**
->	- **(#) # = nummer på outposten** | Teleportera dig till outpost
->	- **(list)** | Visar en lista på alla outpost
+>	- **(#) nummer på outposten** | Teleportera dig till outpost
+>	- **list** | Visar en lista på alla outpost
 >- **ranklist** | Visar invånare och deras ranker
 >- **rank (add/remove) (invånare) (ranknamn)** Befordra/ta bort en spelare till en rank i staden
 >- **reslist (stadsnamn)** | Se en lista på alla invånare i en stad
@@ -174,6 +185,8 @@ Info kommer snart
 >		- **(build/destroy/switch/itemuse) on/off**
 >		- **(resident/ally/outsider) (build/destroy/switch/itemuse) on/off**
 >		- **reset** | Tar alla tillstånd från /town och tillämpar på alla tomter som staden äger
+>   - **tag {upto4character}** - Ange stadens tagg, som i vissa fall används i chatten.
+>       - **clear** - Tar bort stadens tagg
 >	- **taxes ($)** | Bestämmer hur mycket skatt som ska samlas in från varje invånare dagligen. Sätter även % om skattprocent är aktiverat
 >	- **taxpercentcap ($)** | Den maximala summan som kan bli insamlad när skattprocent är aktiverat
 >	- **plotprice ($)** | Bestämmer standard kostnad på tomter i staden
@@ -191,8 +204,8 @@ Info kommer snart
 >	- **pvp** | Aktiverar/avaktiverar pvp i staden
 >	- **taxpercent** | Aktiverar/avaktiverar procentskatt i staden
 >	- **open** | Aktiverar/avaktiverar tillåtelse för alla att gå med i staden
->	- **jail (nummer) (invånarnamn)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
->	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger i så många dagar som du anger
+>	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
+>   - **join {stadsnamn}** - Används till att gå med i en stad som inte kräver inbjudan (öppen).
 >---
 ### /nation  
 *Visar info om din nation*
@@ -242,9 +255,9 @@ Info kommer snart
 >	- **open** | Gör din nation öppen för alla städer som vill gå med utan inbjudan
 >- **join (nation)** | Används av en borgmästare för att gå med i en öppen nation
 >- **merge (nationnamn)**
->	- Skickar en förfrågan till nationen att gå ihop med din nation. 
-Kan endast användas av nationens kung och kräver att den andra nationens kung accepterar inbjudan. 
-Den kung som svarar på förfrågan kommer motta ett bekräftelse meddelande som frågar om den accepterar upplösningen av dess nation. 
+>	- Skickar en förfrågan till nationen att gå ihop med din nation.  
+Kan endast användas av nationens kung och kräver att den andra nationens kung accepterar inbjudan.  
+Den kung som svarar på förfrågan kommer motta ett bekräftelse meddelande som frågar om den accepterar upplösningen av dess nation.  
 Om den bekräftas så kommer städerna från nationen att överföras till den upplösta nationen tillsammans med den upplösta nationens pengar
 >- **townlist (nation)** | (nation) är frivilligt. Visar en lista på städer som är med i nationen
 >- **allylist (nation)** | (nation) är frivilligt. Visar en lista på allierade till nationen
