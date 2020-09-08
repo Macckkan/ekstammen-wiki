@@ -22,8 +22,8 @@ Den tiden du inte förbrukas sparas
 >---
 
 ## <ins>Kommandon
-*Alla kommandon börjar med /*
 >---
+>*Alla kommandon börjar med /*
 >- **fly** | Aktivera flygläget
 >- **flightcharge** | Kolla hur mycket flygtid du har
 >- **afk** | Växla mellan afk/icke afk
