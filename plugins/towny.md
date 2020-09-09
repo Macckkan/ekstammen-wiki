@@ -2,24 +2,18 @@
 Information om inställningar vi har gjort i towny, kostnader, kommandon osv  
   
 ## <ins>Vildmarken</ins>  
-
->---
 > I vildmarken gäller det att vara försiktig.
 Där kan det finnas spelare som vill förstöra och ta dina saker.  
 Därför rekommenderar vi alltid alla att bygga i städer där man kan skydda sina saker.  
 Om du mot förmodan skulle behöva/vill bygga i vildmarken så får du räkna med att andra spelare kan ta dina saker.
 >
 >Du kan dock alltid skydda dina ugnar/kistor/barrels/dörrar m.m. med [LWC](lwc.md)  
->
->---
 
 ## <ins>Skatt</ins>
->---
 >Klockan 12:00 betalar alla städer, nationer och invånare skatt.  
 Detta betyder att de städer/nationer kommer få in en summa från varje spelare vid detta klockslag.  
 Alla betalar olika mycket i skatt beroende på din stads inställningar, stadens storlek osv.  
 Kolla hur mycket du betalar med kommandot  
->---
 
 ## <ins>Tomter</ins>
 Info kommer snart
@@ -27,8 +21,7 @@ Info kommer snart
 ## <ins>Kommandon</ins>
 
 ### /towny  
-*Visar alla /towny kommandon*
->---
+>*Visar alla /towny kommandon*
 >- **?** | Visar fler towny kommandon
 >- **map** | Visar towny's karta
 >- **prices** | Visar skatter/kostnader som du har
@@ -39,8 +32,7 @@ Info kommer snart
 >- **universe** - Visar all towny statistik, invånare/städer/nationer/världar räknar också köpta stadstomter.	
 >---
 ### /plot  
-*Visar alla /plot kommandon*
->---
+>*Visar alla /plot kommandon*  
 > Subkommando /p
 >- **claim** | Invånarkommando för att köpa en tomt som är till salu.
 >	- **auto** | Invånarkommando för att köpa en yta runt spelaren som skriver kommandot med tomter som är till salu
@@ -93,10 +85,8 @@ Info kommer snart
 >	- **notforsale/nfs** | Gör att gruppen inte går att köpa
 >       - **circle/rect** - Anger form  
 >           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
->---
 ### /resident  
-*Visar information om dig*
->---
+>*Visar information om dig*  
 > Subkommando /r
 >- **?** | Visar alla tillgängliga kommandon
 >- **(invånare)** | Visar information om spelaren
@@ -127,8 +117,7 @@ Info kommer snart
 >- **tax** | Visar hur mycket skatt du betalar
 >---
 ### /town  
-*Visar info om din stad*
->---
+>*Visar info om din stad*  
 > Subkommando /t
 >- **?** | Visar alla tillgängliga /town kommandon
 >- **(stad)** | Visar info om staden
@@ -206,10 +195,8 @@ Info kommer snart
 >	- **open** | Aktiverar/avaktiverar tillåtelse för alla att gå med i staden
 >	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
 >   - **join {stadsnamn}** - Används till att gå med i en stad som inte kräver inbjudan (öppen).
->---
 ### /nation  
-*Visar info om din nation*
->---
+>*Visar info om din nation*  
 > Subkommando /n
 >- **?** | Visar alla tillgängliga /nation kommandon
 >- **list**
@@ -262,13 +249,10 @@ Om den bekräftas så kommer städerna från nationen att överföras till den u
 >- **townlist (nation)** | (nation) är frivilligt. Visar en lista på städer som är med i nationen
 >- **allylist (nation)** | (nation) är frivilligt. Visar en lista på allierade till nationen
 >- **enemylist (nation)** | (nation) är frivilligt. Visar en lista på fiender till nationen
->---
 ### Chatt Kommandon
->---
 >- **/townychat, /tc** | Skriv endast med spelare i din stad. Du kan även skriva meddelande direkt /tc (meddelande)
 >- **/nationchat, /nc** | Skriv endast med spelare i din nation. Du kan även skriva meddelande direkt /nc (meddelande)
 >- **/global, /g** | Skriv med alla på servern. Du kan även skriva meddelande direkt /g (meddelande)
 >- **/res set mode reset** | Återställ chattläget till standardchatt
 >- **/channel leave|join (kanal)** | Gå med eller lämna en kanal
 >- **/ch list** | Lista på vilka kanaler du ser meddelanden från
->---
