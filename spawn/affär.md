@@ -1,7 +1,7 @@
 # Affären
 
 ><img src="../bilder/affär.png" alt="Affär" width="200"/>
-
+>
 >I spawn finns det en affär.  
 >Den kan du komma till snabbast genom att skriva **/warp shop**
 >
