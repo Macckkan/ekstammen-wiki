@@ -1,5 +1,4 @@
 # Tider
----
 - Servern startar om varje natt kl 00:02
 - Backups tas en gång om dagen.
 - Världarna sparas var 10e minut.
