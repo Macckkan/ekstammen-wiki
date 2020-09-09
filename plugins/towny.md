@@ -114,7 +114,6 @@ Info kommer snart
 >		- **(friend/ally/outsider) (build/destroy/switch/itemuse) on/off**
 >		- **reset** | Detta kommandot återställer alla dina tomter till inställningarna du har i /resident**
 >- **tax** | Visar hur mycket skatt du betalar
->---
 ### /town  
 >*Visar info om din stad*  
 > Subkommando /t
