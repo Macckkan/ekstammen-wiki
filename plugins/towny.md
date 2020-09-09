@@ -30,7 +30,6 @@ Info kommer snart
 >	- **land (all/resident/town)** | Visar en topplista på landägare
 >	- **residents (all/resident/town)** | Visar en topplista på invånare  
 >- **universe** - Visar all towny statistik, invånare/städer/nationer/världar räknar också köpta stadstomter.	
->---
 ### /plot  
 >*Visar alla /plot kommandon*  
 > Subkommando /p
