@@ -1,7 +1,7 @@
 # Towny
 Information om inställningar vi har gjort i towny, kostnader, kommandon osv  
   
-## <ins>Vildmarken  
+## <ins>Vildmarken</ins>  
 
 >---
 > I vildmarken gäller det att vara försiktig.
@@ -13,7 +13,7 @@ Om du mot förmodan skulle behöva/vill bygga i vildmarken så får du räkna me
 >
 >---
 
-## <ins>Skatt
+## <ins>Skatt</ins>
 >---
 >Klockan 12:00 betalar alla städer, nationer och invånare skatt.  
 Detta betyder att de städer/nationer kommer få in en summa från varje spelare vid detta klockslag.  
@@ -21,10 +21,10 @@ Alla betalar olika mycket i skatt beroende på din stads inställningar, stadens
 Kolla hur mycket du betalar med kommandot  
 >---
 
-## <ins>Tomter
+## <ins>Tomter</ins>
 Info kommer snart
 
-## <ins>Kommandon
+## <ins>Kommandon</ins>
 
 ### /towny  
 *Visar alla /towny kommandon*

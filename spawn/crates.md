@@ -1,9 +1,9 @@
 # Crates
 
-## <ins>Crates
+## <ins>Crates</ins>
 Info kommer snart
 
-## <ins>Nycklar
+## <ins>Nycklar</ins>
 Alla nycklar går att använda i /warp crates med undantag av hemlig nyckel.
 
 ### Vote

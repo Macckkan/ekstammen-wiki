@@ -2,7 +2,7 @@
 
 Detta plugin tillåter spelare att skydda sina dörrar, kistor, ugnar m.m
 
-## <ins>Kommandon  
+## <ins>Kommandon</ins>  
 
 >---
 >- **/cpublic** | Skapar ett publikt skydd. Alla kan använda blocket men ingen annan kan skydda det.
