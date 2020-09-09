@@ -1,7 +1,7 @@
 # Frågor
 
-*Vilken svårighetsgrad har servern?*  
+<ins>*Vilken svårighetsgrad har servern?*</ins>  
 Servern är inställd på hard
 
-*Är keepinventory aktiverat?*  
+<ins>*Är keepinventory aktiverat?*</ins>  
 Ja
