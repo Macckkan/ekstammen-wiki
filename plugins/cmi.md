@@ -1,7 +1,6 @@
 # CMI
 
 ## <ins>Flygtid</ins>
->---
 >![Flygtid](../bilder/flygtid.png)  
 >När man röstar får man **1h/3600 sekunder** flygtid.  
 För att aktivera fly skriver du */fly* och efter det kan du flyga som i creative.  
@@ -9,20 +8,14 @@ Man kan som max ha **30h/108000 sekunder** flygtid.
 Den tiden du inte förbrukas sparas
 > 
 >Om man köper en epic nyckel så kan man vinna "Scroll of flying" som ger dig 2h extra flygtid.
->
->---
 
 ## <ins>Hem</ins>
->---
 >Alla spelare kan ha upp till 5st hem till en början.  
 >Om man har EPIC ranken så kan man ha 10 hem.  
 >
 >Om man vill sätta ett hem så skriver man /sethome och då hamnar hemmet på blocket du står på.  
->
->---
 
 ## <ins>Kommandon</ins>
->---
 >*Alla kommandon börjar med /*
 >- **fly** | Aktivera flygläget
 >- **flightcharge** | Kolla hur mycket flygtid du har
@@ -68,4 +61,3 @@ Den tiden du inte förbrukas sparas
 >- **votetop** | Kolla vem som röstat mest
 >- **warp (warpnamn)** | Teleportera till en warp
 >- **worth (all/block/föremål/hand)** | Kolla vad föremålet är värt
->---
