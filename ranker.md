@@ -1,6 +1,5 @@
 # Ranker
 
----
 ## <ins>Epic</ins>
 >Epic ranken kan man få genom Epic kistan i spawn.  
 ![epic](bilder/epiclicense.png)
