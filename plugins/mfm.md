@@ -6,7 +6,7 @@ Vi har inställningar som kollar antalet entiteter som finns när en sådan spaw
 Varje 30e sekund kollas 3 chunker runt varje spelare om det finns för många entiteter i dem och om det finns så rensas dom bort  
   
 Entitet grupper:
-- Djur - Max 30st inom 3x3 chunker = 9 chunker totalt
+- Djur - *Max 30st inom 3x3 chunker = 9 chunker totalt*
   - Grisar
   - Kor
   - Hästar
@@ -14,7 +14,7 @@ Entitet grupper:
   - Får
   - Kycklingar
   - Sköldpaddor
-- Monster - Max 60st inom 3x3 chunker = 9 chunker totalt
+- Monster - *Max 60st inom 3x3 chunker = 9 chunker totalt*
   - Zombies
   - Skelett
   - Slime
