@@ -15,6 +15,9 @@ Den tiden du inte förbrukas sparas
 >
 >Om man vill sätta ett hem så skriver man /sethome och då hamnar hemmet på blocket du står på.  
 
+## <ins>Huvuden</ins>
+När man dödar en annan spelare finns det 5% chans att få ett huvud.
+
 ## <ins>Kommandon</ins>
 >*Alla kommandon börjar med /*
 >- **fly** | Aktivera flygläget
