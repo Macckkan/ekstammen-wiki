@@ -5,13 +5,13 @@ Alla crates finns i spawn.
 Du kan enkelt ta dig till dom via **/warp crates**  
 Om du vänsterklickar på dem så kan du se vad det finns för vinster  
 
-### Vote
+### Vote crate
 <img src="../bilder/votecrate.png" width="150" height="200">
 
-### Epic
+### Epic crate
 <img src="../bilder/epiccrate.png" width="150" height="200">
 
-### Legendary
+### Legendary crate
 <img src="../bilder/legendarycrate.png" width="150" height="200">
 
 ## <ins>Nycklar</ins>
