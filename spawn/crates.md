@@ -24,7 +24,7 @@ Alla nycklar går att använda i /warp crates med undantag av hemlig nyckel.
 >Epic nycklar går att köpa med [tokens](tokens).  
 
 ### Legendary
->Legendary nycklar kan du endast vinna i [Epic kistan](?id=epic-crate)  
+>Legendary nycklar kan du endast vinna i [Epic kistan](epic-crate)  
 
 ### Hemlig nyckel
 >En hemlig nyckel kan du få via vote kistan.  
