@@ -1,7 +1,18 @@
 # Crates
 
 ## <ins>Crates</ins>
-Info kommer snart
+Alla crates finns i spawn.  
+Du kan enkelt ta dig till dom via **/warp crates**  
+Om du vänsterklickar på dem så kan du se vad det finns för vinster  
+
+### Vote
+<img src="../bilder/votecrate.png" width="150" height="200">
+
+### Epic
+<img src="../bilder/epiccrate.png" width="150" height="200">
+
+### Legendary
+<img src="../bilder/legendarycrate.png" width="150" height="200">
 
 ## <ins>Nycklar</ins>
 Alla nycklar går att använda i /warp crates med undantag av hemlig nyckel.
