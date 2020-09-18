@@ -1,12 +1,13 @@
 # Tokens
-Tokens är vår egen valuta på servern.  
-Med dessa kan du köpa en Epic nyckel med kommandot /tokens
+På många servrar måste man spendera riktiga pengar för att köpa nycklar och olika ranker. 
+Vi har valt att gå en annan väg och har då infört vår egen valuta som vi kallar för TOKENS som du kan använda för att köpa detta.
+Tokens är inget du köper för riktiga pengar utan något du får som tack och belöning för att du är en del av vår community.
    
 ### <ins>På följande sätt kan man få tokens</ins>
->- Vara aktiv *(återkommande)*
-	- Var 30e minut får man 50 tokens
-	- Var 24e timme får man 200 tokens
-	- Efter 7 dagar får man 300 tokens
+>- Vara en aktiv spelare på servern *(återkommande)*
+>	- Var 30e minut får man 50 tokens
+>	- Var 24e timme får man 200 tokens
+>	- Efter 7 dagar får man 300 tokens
 >- Rösta *(glöm inte att vara online)*
 	- När man röstar får man 200 tokens
 >- Kolla på någon av våra [streamers](https://ekstammen.nu/streamers.html) när dom är live
