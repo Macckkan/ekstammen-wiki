@@ -34,8 +34,8 @@ Denna rank medför inga fördelar i staden
 ### Builder
 
 ### Assistant
-Denna rank är ger man till de som ska kunna hjälpa till i staden.  
 <ins>Assistenter betalar ingen skatt till staden</ins>  
+Denna rank är ger man till de som ska kunna hjälpa till i staden.  
 
 Kommandon:
 >- /t claim | Köp område till staden
