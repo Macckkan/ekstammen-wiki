@@ -18,6 +18,38 @@ Kolla hur mycket du betalar med kommandot
 ## <ins>Tomter</ins>
 Info kommer snart
 
+## <ins>Ranker</ins>
+Dessa stadsranker finns på servern  
+
+>GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.
+
+### Donator
+Denna rank medför inga fördelar i staden
+
+### VIP
+Denna rank medför inga fördelar i staden
+
+### Sheriff
+
+### Builder
+
+### Assistant
+Denna rank är ger man till de som ska kunna hjälpa till i staden.
+Assistenter betalar ingen skatt till staden  
+
+Kommandon:
+>- /t claim | Köp område till staden
+>- /t add (invånare) | Bjud in spelare till staden
+>- /t toggle public | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town
+>- /t rank add (namn) (vip/builder) | Ge en spelare en stadsrank
+>- /plot * | Alla plot kommandon
+>- /jail (nummer) (invånare) | Fängsla en kriminell
+
+### Assistant+
+Denna rank har samma fördelar som ovan men med ett extra kommando
+
+>- /t withdraw (summa) | Ta ut en summa från stadens bank
+
 ## <ins>Kommandon</ins>
 
 ### /towny  
