@@ -27,19 +27,18 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 ## <ins>Tomter</ins>
 
 ### <ins>Bonustomter</ins>
-Den första bonustomten du köper kommer att kosta din stad $500. 
+>Den första bonustomten du köper kommer att kosta din stad $500.  
 Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
 ## <ins>Ranker</ins>
-Dessa stadsranker finns på servern  
-
+>Dessa stadsranker finns på servern  
 >GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.
 
 #### <ins>Assistant</ins>
-<ins>Assistenter betalar ingen skatt till staden</ins>  
-Denna rank är ger man till de som ska kunna hjälpa till i staden.  
-
-Kommandon:
+><ins>Assistenter betalar ingen skatt till staden</ins>  
+>Denna rank är ger man till de som ska kunna hjälpa till i staden.  
+>
+>Kommandon:
 >- /t claim | Köp område till staden
 >- /t add (invånare) | Bjud in spelare till staden
 >- /t toggle public | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town
@@ -48,8 +47,8 @@ Kommandon:
 >- /jail (nummer) (invånare) | Fängsla en kriminell
 
 #### <ins>Assistant+</ins>
-Denna rank har samma fördelar som ovan men med ett extra kommando
-
+>Denna rank har samma fördelar som ovan men med ett extra kommando
+>
 >- /t withdraw (summa) | Ta ut en summa från stadens bank
 
 ## <ins>Kommandon</ins>
