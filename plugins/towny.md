@@ -27,6 +27,8 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 ## <ins>Tomter</ins>
 
 ### Bonustomter
+Den första bonustomten du köper kommer att kosta din stad $500. 
+Därefter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
 ## <ins>Ranker</ins>
 Dessa stadsranker finns på servern  
