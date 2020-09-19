@@ -13,7 +13,16 @@ Om du mot förmodan skulle behöva/vill bygga i vildmarken så får du räkna me
 >Klockan 12:00 betalar alla städer, nationer och invånare skatt.  
 Detta betyder att de städer/nationer kommer få in en summa från varje spelare vid detta klockslag.  
 Alla betalar olika mycket i skatt beroende på din stads inställningar, stadens storlek osv.  
-Kolla hur mycket du betalar med kommandot  
+Kolla hur mycket du betalar med kommandot **/towny prices**  
+
+## <ins>Ny stad</ins>
+>Att skapa en ny egen stad kan vara krångligt i början med alla kostnader och kommandon  
+>Nedan finns lite tips  
+>- Skriv kommandot **/towny prices** och se över alla priser  
+>- Dubbelkolla **/balance** och se till att du har <ins>minst</ins> $3000
+>- Hitta en plats där du vill ha staden och skriv **/t >new (namn)** *Detta kostar $2000*
+>    - Om du är säker så bekräftar du kommandot
+>- Därefter skriver du **/t deposit 1000** för att sätta in lite pengar i staden så du klarar [skatten](?id=skatt) som kommer ligga på $10 till en början men öka med $10 per stadstomt du köper  
 
 ## <ins>Tomter</ins>
 Info kommer snart
