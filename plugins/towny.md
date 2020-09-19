@@ -20,7 +20,7 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 >Nedan finns lite tips  
 >- Skriv kommandot **/towny prices** och se över alla priser  
 >- Dubbelkolla **/balance** och se till att du har <ins>minst</ins> $3000
->- Hitta en plats där du vill ha staden och skriv **/t >new (namn)** *Detta kostar $2000*
+>- Hitta en plats där du vill ha staden och skriv **/t new (namn)** *Detta kostar $2000*
 >    - Om du är säker så bekräftar du kommandot
 >- Därefter skriver du **/t deposit 1000** för att sätta in lite pengar i staden så du klarar [skatten](?id=skatt) som kommer ligga på $10 till en början men öka med $10 per stadstomt du köper  
 
