@@ -35,16 +35,6 @@ Dessa stadsranker finns på servern
 
 >GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.
 
-#### <ins>Donator</ins>
-Denna rank medför inga fördelar i staden
-
-#### <ins>VIP</ins>
-Denna rank medför inga fördelar i staden
-
-#### <ins>Sheriff</ins>
-
-#### <ins>Builder</ins>
-
 #### <ins>Assistant</ins>
 <ins>Assistenter betalar ingen skatt till staden</ins>  
 Denna rank är ger man till de som ska kunna hjälpa till i staden.  
