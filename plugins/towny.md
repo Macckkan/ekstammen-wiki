@@ -25,7 +25,8 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 >- Därefter skriver du **/t deposit 1000** för att sätta in lite pengar i staden så du klarar [skatten](?id=skatt) som kommer ligga på $10 till en början men öka med $10 per stadstomt du köper  
 
 ## <ins>Tomter</ins>
-Info kommer snart
+
+### Bonustomter
 
 ## <ins>Ranker</ins>
 Dessa stadsranker finns på servern  
