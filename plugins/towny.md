@@ -29,6 +29,7 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 ### Bonustomter
 Den första bonustomten du köper kommer att kosta din stad $500. 
 Därefter kommer priset öka med 1% för varje bonustomt ni köper till staden.
+hej ola
 
 ## <ins>Ranker</ins>
 Dessa stadsranker finns på servern  
