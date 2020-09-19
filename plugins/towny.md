@@ -35,16 +35,16 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.
 
 #### <ins>Assistant</ins>
-><ins>Assistenter betalar ingen skatt till staden</ins>  
->Denna rank är ger man till de som ska kunna hjälpa till i staden.  
->
->Kommandon:
->- /t claim | Köp område till staden
->- /t add (invånare) | Bjud in spelare till staden
->- /t toggle public | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town
->- /t rank add (namn) (vip/builder) | Ge en spelare en stadsrank
->- /plot * | Alla plot kommandon
->- /jail (nummer) (invånare) | Fängsla en kriminell
+`<ins>Assistenter betalar ingen skatt till staden</ins>  
+Denna rank är ger man till de som ska kunna hjälpa till i staden.  `
+
+`Kommandon:`  
+`- /t claim | Köp område till staden`  
+`- /t add (invånare) | Bjud in spelare till staden`  
+`- /t toggle public | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town`  
+`- /t rank add (namn) (vip/builder) | Ge en spelare en stadsrank`  
+`- /plot * | Alla plot kommandon`  
+`- /jail (nummer) (invånare) | Fängsla en kriminell`  
 
 #### <ins>Assistant+</ins>
 >Denna rank har samma fördelar som ovan men med ett extra kommando
