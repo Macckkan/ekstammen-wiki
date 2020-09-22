@@ -15,7 +15,7 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
 <img src="../bilder/legendarycrate.png" width="150" height="200">
 
 ## <ins>Nycklar</ins>
-Alla nycklar går att använda i /warp crates med undantag av hemlig nyckel.
+Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
 
 ### Vote
 >När man [röstar](/?id=rösta) får man en votenyckel.  
