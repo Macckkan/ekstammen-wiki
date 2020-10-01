@@ -19,8 +19,9 @@ Den tiden du inte förbrukas sparas
 När man dödar en annan spelare finns det 5% chans att få ett huvud.
 
 ## <ins>Säljlista */sell*</ins>
+
 | Föremål | Pris |
-| --- | --- |
+|---|---|
 |  Acacia knapp |  $0.0 |
 |  Andesite |  $0.5 |
 |  Björk stock |  $1.5 |
