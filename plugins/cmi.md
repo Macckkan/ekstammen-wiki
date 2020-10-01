@@ -21,37 +21,37 @@ När man dödar en annan spelare finns det 5% chans att få ett huvud.
 ## <ins>Säljlista */sell*</ins>
 | Föremål | Pris |
 | --- | --- |
-| Acacia knapp | 0.0 |
-| Andesite | 0.5 |
-| Björk stock | 1.5 |
-| Ben | 0.9 |
-| Tegelsten | 0.1 |
-| Kol | 4 |
-| Kullersten | 1 |
-| Diorit | 0.5 |
-| Emerald | 8 |
-| Enderpärla | 0 |
-| Bambu | 0.1 |
-| Glas | 1 |
-| Glödsten | 0.1 |
-| Glödstens pulver | 0.2 |
-| Guldtacka | 4 |
-| Granit | 0.5 |
-| Gräsblock | 0.4 |
-| Grus | 1 | 
-| Krut | 0.05 |
-| Lapis Lazuli | 0.03 |
-| Netherrack | 0.05 |
-| Ekstam | 0.5 |
-| Redstone | 2 |
-| Sand | 1 |
-| Sandsten | 2 |
-| Själsand | 0.05 |
-| Sten | 0.5 |
-| Tråd | 0.19 |
-| Sockerrör | 0.31 |
-| Vete | 0.31 |
-| Vetefrö | 0.12 |
+|  Acacia knapp |  $0.0 |
+|  Andesite |  $0.5 |
+|  Björk stock |  $1.5 |
+|  Ben |  $0.9 |
+|  Tegelsten |  $0.1 |
+|  Kol |  $4 |
+|  Kullersten |  $1 |
+|  Diorit |  $0.5 |
+|  Emerald |  $8 |
+|  Enderpärla |  $0 |
+|  Bambu |  $0.1 |
+|  Glas |  $1 |
+|  Glödsten |  $0.1 |
+|  Glödstens pulver |  $0.2 |
+|  Guldtacka |  $4 |
+|  Granit |  $0.5 |
+|  Gräsblock |  $0.4 |
+|  Grus |  $1 | 
+|  Krut |  $0.05 |
+|  Lapis Lazuli |  $0.03 |
+|  Netherrack |  $0.05 |
+|  Ekstam |  $0.5 |
+|  Redstone |  $2 |
+|  Sand |  $1 |
+|  Sandsten |  $2 |
+|  Själsand |  $0.05 |
+|  Sten |  $0.5 |
+|  Tråd |  $0.19 |
+|  Sockerrör |  $0.31 |
+|  Vete |  $0.31 |
+|  Vetefrö |  $0.12 |
 
 ## <ins>Kommandon</ins>
 >*Alla kommandon börjar med /*
