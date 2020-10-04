@@ -2,7 +2,7 @@
 
 ## <ins>Flygtid</ins>
 >![Flygtid](../bilder/flygtid.png)  
->När man röstar får man **1h/3600 sekunder** flygtid.  
+>När man [röstar](https://minecraft-mp.com/server/243250/vote/) får man **1h/3600 sekunder** flygtid.  
 För att aktivera fly skriver du */fly* och efter det kan du flyga som i creative.  
 Man kan som max ha **30h/108000 sekunder** flygtid.  
 Den tiden du inte förbrukas sparas
