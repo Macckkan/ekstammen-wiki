@@ -2,7 +2,7 @@
 
 <a href="https://ekstammen.nu/">
 <p align="center">
-<img width="100" height="100" src="https://ekstammen.nu/img/serverlogo.png">  
+<img width="100" height="100" src="../ekstammen-wiki/bilder/ekstammen_logo.png">  
 </p>
 </a>
 

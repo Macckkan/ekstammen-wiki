@@ -6,7 +6,7 @@ Tanken med denna wikin är att vi ska kunna samla all nödvändig information so
 Vi ser hela projektet Ekstammen som något vi gör tillsammans med vår community och därför försöker vi involvera communityn i allt vi gör genom att till exempel göra det möjligt för alla att ändra/lägga till/ta bort saker i denna wikin.
 
 ---
-[![Discord](https://ekstammen.nu/img/Discord-Logo+Wordmark-Color.png ':size=250')](https://discord.gg/ntfCax3)  
+[![Discord](../ekstammen-wiki/bilder/Discord.png ':size=250')](https://discord.gg/ntfCax3)  
 Vår [discord](https://discord.gg/ntfCax3) är en av grundpelarna i vår community där vi har vi en härlig samling glada och engagerade medlemmar.  
 
 
