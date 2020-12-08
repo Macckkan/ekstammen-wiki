@@ -19,5 +19,5 @@ Discord är också en suverän plats att få hjälp. Antingen frågar man direkt
 Förutom att du enkelt hjälper oss så får du också som tack [tokens](tokens.md), pengar, en [votenyckel](nycklar?id=vote) & [flygtid](cmi?id=flygtid).  
 
 ---
-## www.ekstammen.nu
+### www.ekstammen.nu
 ### Ip: mc.ekstammen.nu
