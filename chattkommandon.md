@@ -3,7 +3,7 @@
 Länkkommandon
 
 - **!chestshop** *!cshop* | Länkar till [chestshop](chestshop.md)
-- **!bans** | Länkar till [avstängningar](https://ekstammen.nu/bans/)
+- **!bans** | Länkar till [avstängningar](http://bans.ekstammen.nu/)
 - **!discord** *!dc* | Ger en [inbjudan till vår Discord](https://discord.gg/ntfCax3)
 - **!donera** *!shop !donate* | Länkar till [donations sidan](https://ekstammen.tebex.io/)
 - **!förslag** | Skickar ett meddelande om hur man ger förslag till servern
