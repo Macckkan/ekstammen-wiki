@@ -10,7 +10,7 @@ Om du mot förmodan skulle behöva/vill bygga i vildmarken så får du räkna me
 >Du kan dock alltid skydda dina ugnar/kistor/barrels/dörrar m.m. med [LWC](lwc.md)  
 
 ## <ins>Skatt</ins>
->Klockan 12:00 betalar alla städer, nationer och invånare skatt.  
+>Varje dag klockan 12:00 betalar alla städer, nationer och invånare skatt.  
 Detta betyder att de städer/nationer kommer få in en summa från varje spelare vid detta klockslag.  
 Alla betalar olika mycket i skatt beroende på din stads inställningar, stadens storlek osv.  
 Kolla hur mycket du betalar med kommandot **/towny prices**  
