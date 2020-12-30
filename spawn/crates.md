@@ -5,7 +5,7 @@ Alla crates finns i spawn.
 Du kan enkelt ta dig till dom via **/warp crates**  
 Om du vänsterklickar på dem så kan du se vad det finns för vinster  
 
-### Vote crate
+### Vanlig crate
 <img src="../bilder/votecrate.png" width="150" height="200">
 
 ### Epic crate
@@ -18,7 +18,7 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
 
 ### Vote
->När man [röstar](/?id=rösta) får man en votenyckel.  
+>När man [röstar](/?id=rösta) får man en vanlig nyckel.  
 
 ### Epic
 >Epic nycklar går att köpa med [tokens](tokens).  
