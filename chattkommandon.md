@@ -3,12 +3,11 @@
 Länkkommandon
 
 - **!chestshop** *!cshop* | Länkar till [chestshop](chestshop.md)
-- **!bans** | Länkar till [avstängningar](https://ekstammen.nu/bans/)
+- **!bans** | Länkar till [avstängningar](http://bans.ekstammen.nu/)
 - **!discord** *!dc* | Ger en [inbjudan till vår Discord](https://discord.gg/ntfCax3)
 - **!donera** *!shop !donate* | Länkar till [donations sidan](https://ekstammen.tebex.io/)
 - **!förslag** | Skickar ett meddelande om hur man ger förslag till servern
 - **!hemsida** | Länkar till [hemsidan](http://ekstammen.nu)
-- **!karta** *!dynmap* | Länkar till [dynmap](http://ekstammen.nu:8123)
 - **!towny** | Länkar till [Towny](towny.md)
 - **!lwc** | Länkar till [LWC](lwc.md)
 - **!mcwiki** | Länkar till [minecraft wiki](https://minecraft.gamepedia.com/)
