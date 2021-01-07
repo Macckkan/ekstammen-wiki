@@ -15,7 +15,7 @@
 
 - [**<ins>Spawnguider**](README.md) 
   - [Affär](spawn/affär.md)
-  - [Crates](spawn/crates.md)
+  - [Kistor](spawn/kistor.md)
   - [NPC](spawn/npc.md)
 
 - [**<ins>Plugins**](plugins/README.md)

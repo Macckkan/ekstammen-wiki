@@ -1,6 +1,6 @@
-# Crates
+# Kistor
 
-## <ins>Crates</ins>
+## <ins>Kistor</ins>
 Alla kistor finns i spawn.  
 Du kan enkelt ta dig till dom via **/warp crates**  
 Om du vänsterklickar på dem så kan du se vad det finns för vinster  
@@ -20,7 +20,7 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
 ## <ins>Nycklar</ins>
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
   
-### Vote
+### Vanlig
 >När man [röstar](/?id=rösta) får man en votenyckel.  
   
 ### Epic
