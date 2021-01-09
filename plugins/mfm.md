@@ -28,7 +28,6 @@ Entitet grupper:
   - Husk - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
   - Skeleton horse - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
   - Zombie horse - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
-  - Elder Guardian - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
   - Armorstand - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
   - Zombiefied piglin  - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
   - Enderman - *Max **12st** inom 3x3 chunker = 9 chunker totalt*
