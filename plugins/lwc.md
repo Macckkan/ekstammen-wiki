@@ -3,7 +3,7 @@
 Detta plugin tillåter spelare att skydda sina dörrar, kistor, ugnar m.m
 
 ## <ins>Kommandon</ins>  
->
+>-
 >- **/cpublic** | Skapar ett publikt skydd. Alla kan använda blocket men ingen annan kan skydda det.
 >- **/cprivate** | Skapar ett privat skydd.  
 Privat betyder privat: du kan ge andra spelare eller grupper tillgång till blocket. Detta gör du genom att lägga till dem efter "private". Du kan lägga till fler än en grupp och/eller spelare per kommando.
@@ -43,4 +43,4 @@ Se exemplen i /cprivate ovan. Samma gäller med detta kommando men "-" kan ocks�
 >>  *Alias: /callowexplosions on/off*  
 >>- **Hopper**: Kontrollerar om en hopper kan användas på ett skyddat block  
 >>  *Alias: /chopper on/off*  
->
+>-
