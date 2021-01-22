@@ -20,7 +20,4 @@ Andra "hjälpmedel"
 - **vte** | Skriver ut "Välkommen till Ekstammen!"
 - **hemlig nyckel** | Skickar ut ett meddelande om våra hemliga nycklar
 
-Förkortade stadskommandon
-- **!smobs** | Blir /t toggle mobs
-- **!spvp** | Blir /t toggle pvp
-- **!seld** | Blir /t toggle fire
+

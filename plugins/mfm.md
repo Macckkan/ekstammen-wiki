@@ -21,6 +21,38 @@ Entitet grupper:
   - Creepers
   - Bläckfisk
 
+- Enskilda monster/djur/föremål
+  - Elder Guardian - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Wither skeleton - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Strax - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Husk - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Skeleton horse - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Zombie horse - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Armorstand - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Zombiefied piglin  - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Enderman - *Max **12st** inom 3x3 chunker = 9 chunker totalt*
+  - Endermite - *Max **30st** inom 3x3 chunker = 9 chunker totalt*
+  - Guardian - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Shulker - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Iron golem - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Rabbit - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Polar bear - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Parrot - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Turtle - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Phantom - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Cod - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Salmon - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Putterfish - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Tropical fish - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Drowned - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Dolphin - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Panda - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Fox - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Bee - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Hoglin - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+  - Piglin - *Max **10st** inom 3x3 chunker = 9 chunker totalt*
+  - Zoglin - *Max **20st** inom 3x3 chunker = 9 chunker totalt*
+
 *Saker som inte räknas med*:
 - Fulla armor stands
 - Fulla item frames
