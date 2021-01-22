@@ -22,37 +22,40 @@ När man dödar en annan spelare finns det 5% chans att få ett huvud.
 
 | Föremål | Pris |
 |--|--|
-|  Acacia knapp |  $0.0 |
-|  Andesite |  $0.5 |
-|  Björk stock |  $1.5 |
-|  Ben |  $0.9 |
-|  Tegelsten |  $0.1 |
-|  Kol |  $4 |
-|  Kullersten |  $1 |
-|  Diorit |  $0.5 |
-|  Emerald |  $8 |
-|  Enderpärla |  $0 |
-|  Bambu |  $0.1 |
-|  Glas |  $1 |
-|  Glödsten |  $0.1 |
-|  Glödstens pulver |  $0.2 |
-|  Guldtacka |  $4 |
-|  Granit |  $0.5 |
-|  Gräsblock |  $0.4 |
-|  Grus |  $1 | 
-|  Krut |  $0.05 |
-|  Lapis Lazuli |  $0.03 |
-|  Netherrack |  $0.05 |
-|  Ekstam |  $0.5 |
-|  Redstone |  $2 |
-|  Sand |  $1 |
-|  Sandsten |  $2 |
-|  Själsand |  $0.05 |
-|  Sten |  $0.5 |
-|  Tråd |  $0.19 |
-|  Sockerrör |  $0.31 |
-|  Vete |  $0.31 |
-|  Vetefrö |  $0.12 |
+| Sten | 0.03125 mynt |
+| Kullersten | 0.03125 mynt |
+| Andesite | 0.125 mynt |
+| Diorite | 0.124 mynt |
+| Granit | 0.125 mynt |
+| Sandsten | 0.1875 mynt |
+|--|--|
+| Gräs Block | 0.0625 mynt |
+| Jord | 0.0625 |
+| Sand | 0.5 mynt |
+| Grus | 0.5 mynt |
+| Soul Sand | 0.0625 mynt |
+| Soul Soil | 0.0625 mynt |
+|--|--|
+| Oak Log | 0.0625 mynt |
+| Birch Log | 0.0625 mynt |
+| Spruce Log | 0.0625 mynt |
+| Dark Oak Log | 0.0625 mynt | 
+| Jungle Log | 0.0625 mynt |
+| Acacia Log | 0.0625 mynt |
+| Crimson Stem | 0.09375 mynt |
+| Warped Stem | 0.09375 mynt |
+|--|--|
+| Glowstone | 0.125 mynt |
+| Netherrack | 0.03125 mynt |
+| Basalt | 0.09375 mynt|
+|--|--|
+| Bamboo | 0.015625 mynt |
+| Sockerrör | 0.015625 mynt |
+| Vete frö | 0.015625 mynt |
+| Ben | 0.015625 mynt |
+| Gunpowder | 0.0625 mynt |
+| String | 0.0625 mynt |  
+  
 
 ## <ins>Kommandon</ins>
 >*Alla kommandon börjar med /*
