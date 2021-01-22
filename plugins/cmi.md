@@ -20,7 +20,7 @@ När man dödar en annan spelare finns det 5% chans att få ett huvud.
 
 ## <ins>Säljlista */sell*</ins>
 
-| Föremål & Pris |
+| Föremål | Pris |
 |--|--|
 | Sten | 0.03125 mynt |
 | Kullersten | 0.03125 mynt |
