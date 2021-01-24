@@ -32,8 +32,8 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
 ## <ins>Ranker</ins>
 >Dessa stadsranker finns på servern  
->GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.
-
+>**GE ENDAST RANKER TILL DE DU LITAR PÅ TILL 100%.**
+>
 >##### <ins>Assistant</ins>
 ><ins>Assistenter betalar ingen skatt till staden</ins>  
 >Denna rank är ger man till de som ska kunna hjälpa till i staden.  
@@ -53,179 +53,179 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
 ## <ins>Kommandon</ins>
 
-### /towny  
+>### /towny  
 >*Visar alla /towny kommandon*
->- **?** | Visar fler towny kommandon
->- **map** | Visar towny's karta
->- **prices** | Visar skatter/kostnader som du har
->- **time** | Visar hur lång tid det är kvar tills skatter från invånare och städer dras
->- **top**
->	- **land (all/resident/town)** | Visar en topplista på landägare
->	- **residents (all/resident/town)** | Visar en topplista på invånare  
->- **universe** - Visar all towny statistik, invånare/städer/nationer/världar räknar också köpta stadstomter.	
-### /plot  
+>>- **?** | Visar fler towny kommandon
+>>- **map** | Visar towny's karta
+>>- **prices** | Visar skatter/kostnader som du har
+>>- **time** | Visar hur lång tid det är kvar tills skatter från invånare och städer dras
+>>- **top**
+>>	- **land (all/resident/town)** | Visar en topplista på landägare
+>>	- **residents (all/resident/town)** | Visar en topplista på invånare  
+>>- **universe** - Visar all towny statistik, invånare/städer/nationer/världar räknar också köpta stadstomter.	
+>### /plot  
 >*Visar alla /plot kommandon*  
-> Subkommando /p
->- **claim** | Invånarkommando för att köpa en tomt som är till salu.
->	- **auto** | Invånarkommando för att köpa en yta runt spelaren som skriver kommandot med tomter som är till salu
->- **unclaim** | Invånarkommando för att sälja personliga tomter
->	- **circle/rekt** | Sälj i form av cirkel eller rektangel
->		- **# (radie runt din nuvarande position)** | Radien på ytan som du vill sälja  
->- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
->   - **circle/rect** - Anger form  
->       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
->- **notforsale/nfs** | Gör att gruppen inte går att köpa
->   - **circle/rect** - Anger form  
->       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
->- **evict** | Används till att ta bort en tomt från tomtägaren. Används av Borgmästaren eller en assistant
->- **perm** | Visar tillstånden på tomten du befinner dig i
->- **perm hud** | Aktiverar/avaktiverar en scoreboard som visar tillstånd och info om tomten du befinner dig i
->- **set** */plot set {subkommando}*
->   - **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
->   - **shop** | Ändrar en tomt till en Affärstomt
->	- **embassy** | Ändrar en tomt till en Ambassadtomt
->   - **arena** | Ändrar en tomt till en arenatomt
->	- **wilds** | Ändrar en tomt till en wildstomt
->	- **inn** | Ändrar en tomt till en inntomt
->	- **jail** | Ändrar en tomt till en fängelsetomt
->	- **farm** | Ändrar en tomt till en farmtomt
->	- **bank** | Ändrar en tomt till en banktomt
->	- **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
->	- **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
->	 - **perm**
->		- **on/off** | Ändrar alla tillstånd på tomten du befinner dig i
->		- **(resident/ally/outsider) on/off**
->		- **(build/destroy/switch/itemuse) on/off**
->		- **(resident/ally/outsider) (build/destroy/switch/itemuse) on/off**
->		- **reset** | Återställer tomten som du befinner dig i till standardinställningarna som du ser i /town eller /resident. (beror på om tomten ägs av staden eller av en invånare)
->- **toggle**
->	- **fire** | Aktiverar/avaktiverar eldspridning på den tomten du befinner dig
->	- **pvp** | Aktiverar/avaktiverar pvp på den tomten du befinner dig
->	- **explosion** | Aktiverar/avaktiverar explosioner på den tomten du befinner dig
->	- **mobs** | Aktiverar/avaktiverar mobs på den tomten du befinner dig
->- **clear** | Kommando för att ta bort en lista av blocks från en tomt. Används av en Borgmästare på en stadsägd tomt eller av en tomtägare på dess egen tomt
->- **group**
->	- **add|new|create (gruppnamn)** | Skapar en tomtgrupp där spelaren står. Lägger även till tomter till en befintlig grupp
->	- **remove** | Tar bort tomten du står på från dess grupp
->	- **rename (gruppnamn)** | Döper om en tomtgrupp
->	- **set (tomttyp)** | Ändrar en tomt till en specifik typ. Går ej att använda för fängelsetomter
->	- **set perm ...** | Används till att ställa in tillstånd för gruppen du befinner dig i. Se sektionen ovan för /plot set perm
->	- **toggle ...** | Används för att ändra grupp inställningar. Se sektionen ovan för /plot toggle
->	- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
->       - **circle/rect** - Anger form  
->           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
->	- **notforsale/nfs** | Gör att gruppen inte går att köpa
->       - **circle/rect** - Anger form  
->           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
-### /resident  
+>Subkommando /p
+>>- **claim** | Invånarkommando för att köpa en tomt som är till salu.
+>>	- **auto** | Invånarkommando för att köpa en yta runt spelaren som skriver kommandot med tomter som är till salu
+>>- **unclaim** | Invånarkommando för att sälja personliga tomter
+>>	- **circle/rekt** | Sälj i form av cirkel eller rektangel
+>>		- **# (radie runt din nuvarande position)** | Radien på ytan som du vill sälja  
+>>- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
+>>   - **circle/rect** - Anger form  
+>>       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
+>>- **notforsale/nfs** | Gör att gruppen inte går att köpa
+>>   - **circle/rect** - Anger form  
+>>       - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
+>>- **evict** | Används till att ta bort en tomt från tomtägaren. Används av Borgmästaren eller en assistant
+>>- **perm** | Visar tillstånden på tomten du befinner dig i
+>>- **perm hud** | Aktiverar/avaktiverar en scoreboard som visar tillstånd och info om tomten du befinner dig i
+>>- **set** */plot set {subkommando}*
+>>   - **reset** | Återställer en shop/embassy/arena/wilds tomt till en standardtomt
+>>   - **shop** | Ändrar en tomt till en Affärstomt
+>>	- **embassy** | Ändrar en tomt till en Ambassadtomt
+>>   - **arena** | Ändrar en tomt till en arenatomt
+>>	- **wilds** | Ändrar en tomt till en wildstomt
+>>	- **inn** | Ändrar en tomt till en inntomt
+>>	- **jail** | Ändrar en tomt till en fängelsetomt
+>>	- **farm** | Ändrar en tomt till en farmtomt
+>>	- **bank** | Ändrar en tomt till en banktomt
+>>	- **outpost** | Ändrar en tomt till en outpost, *Detta kostar lika mycket som /t claim outpost*
+>>	- **name** | Tillåter en borgmästare eller tomtägaren att byta namn på tomter som dom äger, skriver över ~Stadsmark meddelandet. Personliga tomter visar både det nya namnet och tomtägarens namn
+>>	 - **perm**
+>>		- **on/off** | Ändrar alla tillstånd på tomten du befinner dig i
+>>		- **(resident/ally/outsider) on/off**
+>>		- **(build/destroy/switch/itemuse) on/off**
+>>		- **(resident/ally/outsider) (build/destroy/switch/itemuse) on/off**
+>>		- **reset** | Återställer tomten som du befinner dig i till standardinställningarna som du ser i /town eller /resident. (beror på om tomten ägs av staden eller av en invånare)
+>>- **toggle**
+>>	- **fire** | Aktiverar/avaktiverar eldspridning på den tomten du befinner dig
+>>	- **pvp** | Aktiverar/avaktiverar pvp på den tomten du befinner dig
+>>	- **explosion** | Aktiverar/avaktiverar explosioner på den tomten du befinner dig
+>>	- **mobs** | Aktiverar/avaktiverar mobs på den tomten du befinner dig
+>>- **clear** | Kommando för att ta bort en lista av blocks från en tomt. Används av en Borgmästare på en stadsägd tomt eller av en tomtägare på dess egen tomt
+>>- **group**
+>>	- **add|new|create (gruppnamn)** | Skapar en tomtgrupp där spelaren står. Lägger även till tomter till en befintlig grupp
+>>	- **remove** | Tar bort tomten du står på från dess grupp
+>>	- **rename (gruppnamn)** | Döper om en tomtgrupp
+>>	- **set (tomttyp)** | Ändrar en tomt till en specifik typ. Går ej att använda för fängelsetomter
+>>	- **set perm ...** | Används till att ställa in tillstånd för gruppen du befinner dig i. Se sektionen ovan för /plot set perm
+>>	- **toggle ...** | Används för att ändra grupp inställningar. Se sektionen ovan för /plot toggle
+>>	- **forsale/fs (pris)** | Lägger ut gruppen till salu för priset du väljer
+>>       - **circle/rect** - Anger form  
+>>           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill lägga ut till salu  
+>>	- **notforsale/nfs** | Gör att gruppen inte går att köpa
+>>       - **circle/rect** - Anger form  
+>>           - **# (radie runt din nuvarande position)** | Radien på ytan som du vill sluta sälja    
+>### /resident  
 >*Visar information om dig*  
-> Subkommando /r
->- **?** | Visar alla tillgängliga kommandon
->- **(invånare)** | Visar information om spelaren
->- **friend**
->	- **add (invånare) .. (invånare)** | Lägg till en spelare som är online till din vänlista
->	- **add+ (invånare) .. (invånare)** | Lägg till en spelare som är offline till din vänlista
->	- **remove (invånare) .. (invånare)** | Ta bort en spelare som är online från din vänlista
->	- **remove+ (invånare) .. (invånare)** | Ta bort en spelare som är offline från din vänlista
->	- **clearlist** | Tar bort alla dina vänner
->	- **list** | Visar en lista på alla dina vänner
->- **jail paybill** | Tillåter en spelare att betala för att få komma ut ur fängelse. Pengarna går till staden som äger fängelset
->- **list** | Visar en lista på alla som är online
->- **spawn** | Tar dig till din stads spawn
->- **toggle**
->	- **map** | Aktiverar en karta som uppdateras när du flyttar dig mellan tomter
->	- **townclaim** | Aktiverar ett läge där /town claim automatiskt används när du flyttar dig mellan tomter
->	- **plotborder** | Aktiverar rök på tomternas gränser. Gränsen visas när du flyttar dig mellan olika stadstomter
->	- **constantplotborder** | Aktiverar rök på tomternas gränser. Gränsen försvinner inte
->	- **ignoreplots** | Aktiverar/avaktiverar tomt notiser i städer
->	- **reset** | Stänger av alla lägen som är aktiva
->- **set**
->	- **perm**
->		- **on/off** | Ändrar alla dina tillstånd som du kan se i /resident
->		- **(friend/ally/outsider) on/off**
->		- **(build/destroy/switch/itemuse) on/off**
->		- **(friend/ally/outsider) (build/destroy/switch/itemuse) on/off**
->		- **reset** | Detta kommandot återställer alla dina tomter till inställningarna du har i /resident**
->- **tax** | Visar hur mycket skatt du betalar
-### /town  
+>Subkommando /r
+>>- **?** | Visar alla tillgängliga kommandon
+>>- **(invånare)** | Visar information om spelaren
+>>- **friend**
+>>	- **add (invånare) .. (invånare)** | Lägg till en spelare som är online till din vänlista
+>>	- **add+ (invånare) .. (invånare)** | Lägg till en spelare som är offline till din vänlista
+>>	- **remove (invånare) .. (invånare)** | Ta bort en spelare som är online från din vänlista
+>>	- **remove+ (invånare) .. (invånare)** | Ta bort en spelare som är offline från din vänlista
+>>	- **clearlist** | Tar bort alla dina vänner
+>>	- **list** | Visar en lista på alla dina vänner
+>>- **jail paybill** | Tillåter en spelare att betala för att få komma ut ur fängelse. Pengarna går till staden som äger fängelset
+>>- **list** | Visar en lista på alla som är online
+>>- **spawn** | Tar dig till din stads spawn
+>>- **toggle**
+>>	- **map** | Aktiverar en karta som uppdateras när du flyttar dig mellan tomter
+>>	- **townclaim** | Aktiverar ett läge där /town claim automatiskt används när du flyttar dig mellan tomter
+>>	- **plotborder** | Aktiverar rök på tomternas gränser. Gränsen visas när du flyttar dig mellan olika stadstomter
+>>	- **constantplotborder** | Aktiverar rök på tomternas gränser. Gränsen försvinner inte
+>>	- **ignoreplots** | Aktiverar/avaktiverar tomt notiser i städer
+>>	- **reset** | Stänger av alla lägen som är aktiva
+>>- **set**
+>>	- **perm**
+>>		- **on/off** | Ändrar alla dina tillstånd som du kan se i /resident
+>>		- **(friend/ally/outsider) on/off**
+>>		- **(build/destroy/switch/itemuse) on/off**
+>>		- **(friend/ally/outsider) (build/destroy/switch/itemuse) on/off**
+>>		- **reset** | Detta kommandot återställer alla dina tomter till inställningarna du har i /resident**
+>>- **tax** | Visar hur mycket skatt du betalar
+>### /town  
 >*Visar info om din stad*  
 > Subkommando /t
->- **?** | Visar alla tillgängliga /town kommandon
->- **(stad)** | Visar info om staden
->- **here** | Visar info om staden du befinner dig i
->- **leave** | Lämna en stad
->- **list**
->	- **(sid #)**
->	- **by name (#)** | Sortera listan på namn
->	- **by resident (#)** | Sortera listan på antal invånare
->	- **by balance (#)** | Sortera listan på städer med mest pengar
->	- **by townblocks (#)** | Sortera listan på städer med flest stadstomter
->	- **by online (#)** | Sortera listan på städer med flest online invånare
->	- **by open (#)** | Sortera listan på öppna städer
->- **online** | Visar vilka spelare som är online i din stad
->- **plots (stadsnamn)** | Visar en hjälpsam lista av tomter och dess typer/inkomst som ägs av staden
->- **new (stadsnamn)** | Skapar en ny stad
->- **add (invånare) .. (invånare)** | Bjud in spelare till din stad. För Borgmästare och assistenter
->- **kick (invånare) .. (invånare)** | Sparka ut en spelare från din stad. För borgmästare
->- **spawn** | Teleportera dig till stadens spawn
->	- **(stad)** | Teleportera dig till en annan stads spawn
->- **claim** | Köp tomten du står i till din stad. För borgmästare & assistenter
->	- **outpost <#|(namn)|(namn:#)** | Köp en outpost till din stad. (namn) använder tomtnamnet. (namn:#) används när tomtnamnet startar med en siffra
->	- **# (radie runt din nuvarande position)** | Köper en yta av stadstomter runt dig
->	- **auto** | Köp så många stadstomter runt dig som går. (Hur många som går baseras på hur mycket pengar & tillgängliga stadstomter din stad har)
->- **unclaim** | Sälj stadstomten du står i
->	- **all** | Sälj ALLA stadstomter
->	- **# (radie runt din nuvarande position)** | Sälj en yta av stadstomter runt dig
->- **withdraw ($)** | Ta ut pengar från din stadsbank
->- **deposit ($)** | Sätt in pengar i din stadsbank
->- **buy**
->	- **bonus (antal)** | Köp tillgängliga bonus tomter
->- **delete** | Ta bort din stad och all data som tillhör den
->- **outlawlist (stad)** | Visar en lista på kriminella i staden
->- **outlaw (add/remove) (namn)** | Lägg till eller ta bort en kriminell från listan
->- **outpost**
->	- **(#) nummer på outposten** | Teleportera dig till outpost
->	- **list** | Visar en lista på alla outpost
->- **ranklist** | Visar invånare och deras ranker
->- **rank (add/remove) (invånare) (ranknamn)** Befordra/ta bort en spelare till en rank i staden
->- **reslist (stadsnamn)** | Se en lista på alla invånare i en stad
->- **say (meddelande)** | Sänd ett meddelande till alla online invånare
->- **set**
->	- **board (meddelande)** | Visa ett meddelande för invånare varje gång de loggar in
->	- **mayor (invånare)** | Ge borgmästare statusen till en annan invånare
->	- **homeblock** | Sätt hemblock och spawn för din stad
->	- **spawn** | Sätt stadens spawn. Måste göras inom ett hemblock
->	- **spawncost ($)** | Bestäm vad det ska kosta att teleportera till en publik stad. Invånare, nation medlemmar och allierade påverkas ej
->	- **name (namn)** | Ändra din stads namn
->	- **outpost** | Ändrar outpostens spawn till platsen du står på. Måste användas inom en existerande outpost tomt
->	- **jail** | Ändrar fängelsetomtens spawn till platsen du står på. Måste användas inom en existerande fängelsetomt
->	- **perm**
->		- **on/off** | Ändrar alla tillstånd inom staden. VAR FÖRSIKTIG
->		- **(resident/ally/outsider) on/off**
->		- **(build/destroy/switch/itemuse) on/off**
->		- **(resident/ally/outsider) (build/destroy/switch/itemuse) on/off**
->		- **reset** | Tar alla tillstånd från /town och tillämpar på alla tomter som staden äger
->   - **tag {upto4character}** - Ange stadens tagg, som i vissa fall används i chatten.
->       - **clear** - Tar bort stadens tagg
->	- **taxes ($)** | Bestämmer hur mycket skatt som ska samlas in från varje invånare dagligen. Sätter även % om skattprocent är aktiverat
->	- **taxpercentcap ($)** | Den maximala summan som kan bli insamlad när skattprocent är aktiverat
->	- **plotprice ($)** | Bestämmer standard kostnad på tomter i staden
->	- **shopprice ($)** | Bestämmer standard konstnad på affärtomter i staden
->	- **shoptax ($)** | Bestämmer hur mycket skatt varje invånare ska betala per affärstomt de äger
->	- **embassyprice ($)** | Bestämmer hur mycket en embassadtomt ska kosta
->	- **embassytax ($)** | Bestämmer hur mycket skatt det ska kosta per dag per embassadtomt spelare äger
->	- **title (namn) (titelhär)** | Borgmästaren kan med detta kommando ge en invånare en titel
->	- **surname (namn) (andranamn)** | Borgmästaren kan med detta kommando ge en invånare ett andranamn
->- **toggle**
->	- **explosion** | Aktiverar/avaktiverar explosioner i staden
->	- **fire** | Aktiverar/avaktiverar eldspridning i staden
->	- **mobs** | Aktiverar/avaktiverar mobs i staden
->	- **public** | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town
->	- **pvp** | Aktiverar/avaktiverar pvp i staden
->	- **taxpercent** | Aktiverar/avaktiverar procentskatt i staden
->	- **open** | Aktiverar/avaktiverar tillåtelse för alla att gå med i staden
->	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
->   - **join {stadsnamn}** - Används till att gå med i en stad som inte kräver inbjudan (öppen).
+>>- **?** | Visar alla tillgängliga /town kommandon
+>>- **(stad)** | Visar info om staden
+>>- **here** | Visar info om staden du befinner dig i
+>>- **leave** | Lämna en stad
+>>- **list**
+>>	- **(sid #)**
+>>	- **by name (#)** | Sortera listan på namn
+>>	- **by resident (#)** | Sortera listan på antal invånare
+>>	- **by balance (#)** | Sortera listan på städer med mest pengar
+>>	- **by townblocks (#)** | Sortera listan på städer med flest stadstomter
+>>	- **by online (#)** | Sortera listan på städer med flest online invånare
+>>	- **by open (#)** | Sortera listan på öppna städer
+>>- **online** | Visar vilka spelare som är online i din stad
+>>- **plots (stadsnamn)** | Visar en hjälpsam lista av tomter och dess typer/inkomst som ägs av staden
+>>- **new (stadsnamn)** | Skapar en ny stad
+>>- **add (invånare) .. (invånare)** | Bjud in spelare till din stad. För Borgmästare och assistenter
+>>- **kick (invånare) .. (invånare)** | Sparka ut en spelare från din stad. För borgmästare
+>>- **spawn** | Teleportera dig till stadens spawn
+>>	- **(stad)** | Teleportera dig till en annan stads spawn
+>>- **claim** | Köp tomten du står i till din stad. För borgmästare & assistenter
+>>	- **outpost <#|(namn)|(namn:#)** | Köp en outpost till din stad. (namn) använder tomtnamnet. (namn:#) används när tomtnamnet startar med en siffra
+>>	- **# (radie runt din nuvarande position)** | Köper en yta av stadstomter runt dig
+>>	- **auto** | Köp så många stadstomter runt dig som går. (Hur många som går baseras på hur mycket pengar & tillgängliga stadstomter din stad har)
+>>- **unclaim** | Sälj stadstomten du står i
+>>	- **all** | Sälj ALLA stadstomter
+>>	- **# (radie runt din nuvarande position)** | Sälj en yta av stadstomter runt dig
+>>- **withdraw ($)** | Ta ut pengar från din stadsbank
+>>- **deposit ($)** | Sätt in pengar i din stadsbank
+>>- **buy**
+>>	- **bonus (antal)** | Köp tillgängliga bonus tomter
+>>- **delete** | Ta bort din stad och all data som tillhör den
+>>- **outlawlist (stad)** | Visar en lista på kriminella i staden
+>>- **outlaw (add/remove) (namn)** | Lägg till eller ta bort en kriminell från listan
+>>- **outpost**
+>>	- **(#) nummer på outposten** | Teleportera dig till outpost
+>>	- **list** | Visar en lista på alla outpost
+>>- **ranklist** | Visar invånare och deras ranker
+>>- **rank (add/remove) (invånare) (ranknamn)** Befordra/ta bort en spelare till en rank i staden
+>>- **reslist (stadsnamn)** | Se en lista på alla invånare i en stad
+>>- **say (meddelande)** | Sänd ett meddelande till alla online invånare
+>>- **set**
+>>	- **board (meddelande)** | Visa ett meddelande för invånare varje gång de loggar in
+>>	- **mayor (invånare)** | Ge borgmästare statusen till en annan invånare
+>>	- **homeblock** | Sätt hemblock och spawn för din stad
+>>	- **spawn** | Sätt stadens spawn. Måste göras inom ett hemblock
+>>	- **spawncost ($)** | Bestäm vad det ska kosta att teleportera till en publik stad. Invånare, nation medlemmar och allierade påverkas ej
+>>	- **name (namn)** | Ändra din stads namn
+>>	- **outpost** | Ändrar outpostens spawn till platsen du står på. Måste användas inom en existerande outpost tomt
+>>	- **jail** | Ändrar fängelsetomtens spawn till platsen du står på. Måste användas inom en existerande fängelsetomt
+>>	- **perm**
+>>		- **on/off** | Ändrar alla tillstånd inom staden. VAR FÖRSIKTIG
+>>		- **(resident/ally/outsider) on/off**
+>>		- **(build/destroy/switch/itemuse) on/off**
+>>		- **(resident/ally/outsider) (build/destroy/switch/itemuse) on/off**
+>>		- **reset** | Tar alla tillstånd från /town och tillämpar på alla tomter som staden äger
+>>   - **tag {upto4character}** - Ange stadens tagg, som i vissa fall används i chatten.
+>>       - **clear** - Tar bort stadens tagg
+>>	- **taxes ($)** | Bestämmer hur mycket skatt som ska samlas in från varje invånare dagligen. Sätter även % om skattprocent är aktiverat
+>>	- **taxpercentcap ($)** | Den maximala summan som kan bli insamlad när skattprocent är aktiverat
+>>	- **plotprice ($)** | Bestämmer standard kostnad på tomter i staden
+>>	- **shopprice ($)** | Bestämmer standard konstnad på affärtomter i staden
+>>	- **shoptax ($)** | Bestämmer hur mycket skatt varje invånare ska betala per affärstomt de äger
+>>	- **embassyprice ($)** | Bestämmer hur mycket en embassadtomt ska kosta
+>>	- **embassytax ($)** | Bestämmer hur mycket skatt det ska kosta per dag per embassadtomt spelare äger
+>>	- **title (namn) (titelhär)** | Borgmästaren kan med detta kommando ge en invånare en titel
+>>	- **surname (namn) (andranamn)** | Borgmästaren kan med detta kommando ge en invånare ett andranamn
+>>- **toggle**
+>>	- **explosion** | Aktiverar/avaktiverar explosioner i staden
+>>	- **fire** | Aktiverar/avaktiverar eldspridning i staden
+>>	- **mobs** | Aktiverar/avaktiverar mobs i staden
+>>	- **public** | Aktiverar/avaktiverar publik /town spawn och koordinaterna på stadens hemtomt i /town
+>>	- **pvp** | Aktiverar/avaktiverar pvp i staden
+>>	- **taxpercent** | Aktiverar/avaktiverar procentskatt i staden
+>>	- **open** | Aktiverar/avaktiverar tillåtelse för alla att gå med i staden
+>>	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
+>>   - **join {stadsnamn}** - Används till att gå med i en stad som inte kräver inbjudan (öppen).
 ### /nation  
 >*Visar info om din nation*  
 > Subkommando /n
