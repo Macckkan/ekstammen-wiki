@@ -19,45 +19,45 @@ Den tiden du inte förbrukas sparas
 >Om man vill sätta ett hem så skriver man /sethome och då hamnar hemmet på blocket du står på.  
 
 ## <ins>Huvuden</ins>
-När man dödar en annan spelare finns det 5% chans att få ett huvud.
+>När man dödar en annan spelare finns det 5% chans att få ett huvud.
 
 ## <ins>Säljlista */sell*</ins>
 
-| Föremål | Pris |
-|--|--|
-| Sten | 0.03125 mynt |
-| Kullersten | 0.03125 mynt |
-| Andesite | 0.125 mynt |
-| Diorite | 0.124 mynt |
-| Granit | 0.125 mynt |
-| Sandsten | 0.1875 mynt |
-|--|--|
-| Gräs Block | 0.0625 mynt |
-| Jord | 0.0625 |
-| Sand | 0.5 mynt |
-| Grus | 0.5 mynt |
-| Soul Sand | 0.0625 mynt |
-| Soul Soil | 0.0625 mynt |
-|--|--|
-| Oak Log | 0.0625 mynt |
-| Birch Log | 0.0625 mynt |
-| Spruce Log | 0.0625 mynt |
-| Dark Oak Log | 0.0625 mynt | 
-| Jungle Log | 0.0625 mynt |
-| Acacia Log | 0.0625 mynt |
-| Crimson Stem | 0.09375 mynt |
-| Warped Stem | 0.09375 mynt |
-|--|--|
-| Glowstone | 0.125 mynt |
-| Netherrack | 0.03125 mynt |
-| Basalt | 0.09375 mynt|
-|--|--|
-| Bamboo | 0.015625 mynt |
-| Sockerrör | 0.015625 mynt |
-| Vete frö | 0.015625 mynt |
-| Ben | 0.015625 mynt |
-| Gunpowder | 0.0625 mynt |
-| String | 0.0625 mynt |  
+>| Föremål | Pris |
+>|--|--|
+>| Sten | 0.03125 mynt |
+>| Kullersten | 0.03125 mynt |
+>| Andesite | 0.125 mynt |
+>| Diorite | 0.124 mynt |
+>| Granit | 0.125 mynt |
+>| Sandsten | 0.1875 mynt |
+>|--|--|
+>| Gräs Block | 0.0625 mynt |
+>| Jord | 0.0625 |
+>| Sand | 0.5 mynt |
+>| Grus | 0.5 mynt |
+>| Soul Sand | 0.0625 mynt |
+>| Soul Soil | 0.0625 mynt |
+>|--|--|
+>| Oak Log | 0.0625 mynt |
+>| Birch Log | 0.0625 mynt |
+>| Spruce Log | 0.0625 mynt |
+>| Dark Oak Log | 0.0625 mynt | 
+>| Jungle Log | 0.0625 mynt |
+>| Acacia Log | 0.0625 mynt |
+>| Crimson Stem | 0.09375 mynt |
+>| Warped Stem | 0.09375 mynt |
+>|--|--|
+>| Glowstone | 0.125 mynt |
+>| Netherrack | 0.03125 mynt |
+>| Basalt | 0.09375 mynt|
+>|--|--|
+>| Bamboo | 0.015625 mynt |
+>| Sockerrör | 0.015625 mynt |
+>| Vete frö | 0.015625 mynt |
+>| Ben | 0.015625 mynt |
+>| Gunpowder | 0.0625 mynt |
+>| String | 0.0625 mynt |  
   
 
 ## <ins>Kommandon</ins>

@@ -2,7 +2,7 @@
 Detta plugin tillåter spelarna att skapa egna affärer med hälp av en kista och en skylt
 
 ## <ins>Skapa en affär</ins>
-För att skapa en affär så behöver du göra följande:  
+>För att skapa en affär så behöver du göra följande:  
 >1. Placera en kista och lägg i det du vill sälja  
 >2. Placera en skylt på, ovanför eller brevid kistan  
 >3. Skriv följande på skylten:  
