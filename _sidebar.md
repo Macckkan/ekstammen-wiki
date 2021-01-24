@@ -20,6 +20,7 @@
 
 - [**<ins>Plugins**](plugins/README.md)
   - [Towny](plugins/towny.md)
+  - [Discord](plugins/discord.md)
   - [Jobs](plugins/jobs.md)
   - [LWC](plugins/lwc.md)
   - [ChestShop](plugins/chestshop.md)
