@@ -2,12 +2,15 @@
 
 ## <ins>Flygtid</ins>
 >![Flygtid](../bilder/flygtid.png)  
->När man [röstar](https://minecraft-mp.com/server/243250/vote/) får man **1h/3600 sekunder** flygtid.  
-För att aktivera fly skriver du */fly* och efter det kan du flyga som i creative.  
+>När man loggar in på servern första gången får man **1h** flygtid.  
+Detta får man även efter **1h** onlinetid.  
+För att sedan få mer flygtid så måste man köpa detta för mynt i **/warp shop**.  
+>  
+>För att aktivera fly skriver du **/fly** och efter det kan du flyga som i creative.  
 Man kan som max ha **30h/108000 sekunder** flygtid.  
 Den tiden du inte förbrukas sparas
 > 
->Om man köper en epic nyckel så kan man vinna "Scroll of flying" som ger dig 2h extra flygtid.
+>Om man köper en epic nyckel så kan man vinna <ins>"Scroll of flying"</ins> som ger dig 2h extra flygtid.
 
 ## <ins>Hem</ins>
 >Alla spelare kan ha upp till 5st hem till en början.  
