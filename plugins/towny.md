@@ -226,64 +226,64 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>	- **open** | Aktiverar/avaktiverar tillåtelse för alla att gå med i staden
 >>	- **jail (nummer) (invånarnamn) (dagar)** | Skickar en invånare i din stad till fängelset du anger. Samma kommando släpper en spelare från fängelset
 >>   - **join {stadsnamn}** - Används till att gå med i en stad som inte kräver inbjudan (öppen).
-### /nation  
+>### /nation  
 >*Visar info om din nation*  
-> Subkommando /n
->- **?** | Visar alla tillgängliga /nation kommandon
->- **list**
->	- **(sid #)**
->	- **by name (#)** | Sortera listan på namn
->	- **by resident (#)** | Sortera listan på antal invånare
->	- **by balance (#)** | Sortera listan på nationer med mest pengar
->	- **by towns (#)** | Sortera listan på nationer med flest städer
->	- **by townblocks (#)** | Sortera listan på nationer med flest stadstomter
->	- **by online (#)** | Sortera listan på nationer med flest online invånare
->- **online** | Visar vem som är online i din nation
->- **(nation)** | Visar information om en annan nation än den du är med i
->- **leave** | Lämna din nuvarande nation. Endast borgmästare kan använda detta kommando
->- **withdraw ($)** | Ta ut pengar från din nationsbank
->- **deposit ($)** | Sätt in pengar i din nationsbank
->- **deposit ($) (stad)** | Sätt in pengar i en stad som är med i nationen
->- **new (namn)** | Skapa en ny nation
->- **rank** | Kommando för att sätta assistant/egen rank i nationen
->- **add (stad) .. (stad)** | Bjuder in/lägger till städer i din nation
->- **kick (stad) .. (stad)** | Sparkar ut en stad från din nation
->- **delete (nation)** | Raderar din nation
->- **ally**
->	- **add (nation) .. (nation)** | Lägger till en nation till din allianslista
->	- **remove (nation) .. (nation)** | Tar bort en nation från din allianslista
->- **enemy**
->	- **add (nation) .. (nation)** | Lägger till en nation till din fiendelista
->	- **remove (nation) .. (nation)** | Tar bort en nation från din fiendelista
->- **rank (add|remove) (invånare) (rank)** | Befordra/ta bort en spelare till en rank i nationen
->- **say (meddelande)** | Sänd ett meddelande till alla online nations medlemmar
->- **set**
->	- **king (invånare)** | Kröna en invånare till kung
->	- **capital (stad)** | Sätt huvudstad och kung i nationen
->	- **board (meddelande)** | Visa ett meddelande för invånare varje gång de loggar in
->	- **taxes ($)** | Bestämmer hur mycket skatt som skall samlas in från städer varje dag
->	- **name (namn)** | Byt nationens namn
->	- **spawn** | Bestäm vart nationens spawn ska vara
->	- **spawncost** | Bestäm vad det ska kosta att teleportera till en publik nation. Invånare, nation medlemmar och allierade påverkas ej
->	- **title (namn) (titelhär)** | Kungen kan med detta kommando ge en invånare en titel
->	- **surname (namn) (andranamn)** | Kungen kan med detta kommando ge en invånare ett andranamn
->	- **mapcolor (färg)** | Bestämmer vilken färg som nationen ska ha på dynmap
->- **toggle**
->	- **neutral** | Om din nation skall visas som neutral och betala en daglig kostnad för detta under krig
->	- **open** | Gör din nation öppen för alla städer som vill gå med utan inbjudan
->- **join (nation)** | Används av en borgmästare för att gå med i en öppen nation
->- **merge (nationnamn)**
->	- Skickar en förfrågan till nationen att gå ihop med din nation.  
-Kan endast användas av nationens kung och kräver att den andra nationens kung accepterar inbjudan.  
-Den kung som svarar på förfrågan kommer motta ett bekräftelse meddelande som frågar om den accepterar upplösningen av dess nation.  
-Om den bekräftas så kommer städerna från nationen att överföras till den upplösta nationen tillsammans med den upplösta nationens pengar
->- **townlist (nation)** | (nation) är frivilligt. Visar en lista på städer som är med i nationen
->- **allylist (nation)** | (nation) är frivilligt. Visar en lista på allierade till nationen
->- **enemylist (nation)** | (nation) är frivilligt. Visar en lista på fiender till nationen
-### Chatt Kommandon
->- **/townychat, /tc** | Skriv endast med spelare i din stad. Du kan även skriva meddelande direkt /tc (meddelande)
->- **/nationchat, /nc** | Skriv endast med spelare i din nation. Du kan även skriva meddelande direkt /nc (meddelande)
->- **/global, /g** | Skriv med alla på servern. Du kan även skriva meddelande direkt /g (meddelande)
->- **/res set mode reset** | Återställ chattläget till standardchatt
->- **/channel leave|join (kanal)** | Gå med eller lämna en kanal
->- **/ch list** | Lista på vilka kanaler du ser meddelanden från
+>Subkommando /n
+>>- **?** | Visar alla tillgängliga /nation kommandon
+>>- **list**
+>>	- **(sid #)**
+>>	- **by name (#)** | Sortera listan på namn
+>>	- **by resident (#)** | Sortera listan på antal invånare
+>>	- **by balance (#)** | Sortera listan på nationer med mest pengar
+>>	- **by towns (#)** | Sortera listan på nationer med flest städer
+>>	- **by townblocks (#)** | Sortera listan på nationer med flest stadstomter
+>>	- **by online (#)** | Sortera listan på nationer med flest online invånare
+>>- **online** | Visar vem som är online i din nation
+>>- **(nation)** | Visar information om en annan nation än den du är med i
+>>- **leave** | Lämna din nuvarande nation. Endast borgmästare kan använda detta kommando
+>>- **withdraw ($)** | Ta ut pengar från din nationsbank
+>>- **deposit ($)** | Sätt in pengar i din nationsbank
+>>- **deposit ($) (stad)** | Sätt in pengar i en stad som är med i nationen
+>>- **new (namn)** | Skapa en ny nation
+>>- **rank** | Kommando för att sätta assistant/egen rank i nationen
+>>- **add (stad) .. (stad)** | Bjuder in/lägger till städer i din nation
+>>- **kick (stad) .. (stad)** | Sparkar ut en stad från din nation
+>>- **delete (nation)** | Raderar din nation
+>>- **ally**
+>>	- **add (nation) .. (nation)** | Lägger till en nation till din allianslista
+>>	- **remove (nation) .. (nation)** | Tar bort en nation från din allianslista
+>>- **enemy**
+>>	- **add (nation) .. (nation)** | Lägger till en nation till din fiendelista
+>>	- **remove (nation) .. (nation)** | Tar bort en nation från din fiendelista
+>>- **rank (add|remove) (invånare) (rank)** | Befordra/ta bort en spelare till en rank i nationen
+>>- **say (meddelande)** | Sänd ett meddelande till alla online nations medlemmar
+>>- **set**
+>>	- **king (invånare)** | Kröna en invånare till kung
+>>	- **capital (stad)** | Sätt huvudstad och kung i nationen
+>>	- **board (meddelande)** | Visa ett meddelande för invånare varje gång de loggar in
+>>	- **taxes ($)** | Bestämmer hur mycket skatt som skall samlas in från städer varje dag
+>>	- **name (namn)** | Byt nationens namn
+>>	- **spawn** | Bestäm vart nationens spawn ska vara
+>>	- **spawncost** | Bestäm vad det ska kosta att teleportera till en publik nation. Invånare, nation medlemmar och allierade påverkas ej
+>>	- **title (namn) (titelhär)** | Kungen kan med detta kommando ge en invånare en titel
+>>	- **surname (namn) (andranamn)** | Kungen kan med detta kommando ge en invånare ett andranamn
+>>	- **mapcolor (färg)** | Bestämmer vilken färg som nationen ska ha på dynmap
+>>- **toggle**
+>>	- **neutral** | Om din nation skall visas som neutral och betala en daglig kostnad för detta under krig
+>>	- **open** | Gör din nation öppen för alla städer som vill gå med utan inbjudan
+>>- **join (nation)** | Används av en borgmästare för att gå med i en öppen nation
+>>- **merge (nationnamn)**  
+>>	 - Skickar en förfrågan till nationen att gå ihop med din nation.  
+>>Kan endast användas av nationens kung och kräver att den andra nationens kung accepterar inbjudan.  
+>>Den kung som svarar på förfrågan kommer motta ett bekräftelse meddelande som frågar om den accepterar upplösningen av dess nation.  
+>>Om den bekräftas så kommer städerna från nationen att överföras till den upplösta nationen tillsammans med den upplösta nationens pengar
+>>- **townlist (nation)** | (nation) är frivilligt. Visar en lista på städer som är med i nationen
+>>- **allylist (nation)** | (nation) är frivilligt. Visar en lista på allierade till nationen
+>>- **enemylist (nation)** | (nation) är frivilligt. Visar en lista på fiender till nationen
+>### Chatt Kommandon
+>>- **/townychat, /tc** | Skriv endast med spelare i din stad. Du kan även skriva meddelande direkt /tc (meddelande)
+>>- **/nationchat, /nc** | Skriv endast med spelare i din nation. Du kan även skriva meddelande direkt /nc (meddelande)
+>>- **/global, /g** | Skriv med alla på servern. Du kan även skriva meddelande direkt /g (meddelande)
+>>- **/res set mode reset** | Återställ chattläget till standardchatt
+>>- **/channel leave|join (kanal)** | Gå med eller lämna en kanal
+>>- **/ch list** | Lista på vilka kanaler du ser meddelanden från
