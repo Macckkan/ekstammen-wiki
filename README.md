@@ -21,3 +21,4 @@ Förutom att du enkelt hjälper oss så får du också som tack [tokens](tokens.
 ---
 ### www.ekstammen.nu
 ### Ip: mc.ekstammen.nu
+### Bedrock edition: mc.ekstammen.nu port: 19132
