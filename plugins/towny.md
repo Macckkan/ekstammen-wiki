@@ -19,15 +19,15 @@ Kolla hur mycket du betalar med kommandot **/towny prices**
 >Att skapa en ny egen stad kan vara krångligt i början med alla kostnader och kommandon  
 >Nedan finns lite tips  
 >- Skriv kommandot **/towny prices** och se över alla priser  
->- Dubbelkolla **/balance** och se till att du har <ins>minst</ins> $3000
->- Hitta en plats där du vill ha staden och skriv **/t new (namn)** *Detta kostar $2000*
+>- Dubbelkolla **/balance** och se till att du har <ins>minst</ins> 3000 mynt
+>- Hitta en plats där du vill ha staden och skriv **/t new (namn)** *Detta kostar 2000 mynt*
 >    - Om du är säker så bekräftar du kommandot
->- Därefter skriver du **/t deposit 1000** för att sätta in lite pengar i staden så du klarar [skatten](?id=skatt) som kommer ligga på $10 till en början men öka med $10 per stadstomt du köper  
+>- Därefter skriver du **/t deposit 1000** för att sätta in lite pengar i staden så du klarar [skatten](?id=skatt) som kommer ligga på 10 mynt till en början men öka med 10 mynt per stadstomt du köper  
 
 ## <ins>Tomter</ins>
 
 >#### <ins>Bonustomter</ins>
->Den första bonustomten du köper kommer att kosta din stad $500.  
+>Den första bonustomten du köper kommer att kosta din stad 500 mynt.  
 Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
 ## <ins>Ranker</ins>
@@ -176,8 +176,8 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>- **unclaim** | Sälj stadstomten du står i
 >>	- **all** | Sälj ALLA stadstomter
 >>	- **# (radie runt din nuvarande position)** | Sälj en yta av stadstomter runt dig
->>- **withdraw ($)** | Ta ut pengar från din stadsbank
->>- **deposit ($)** | Sätt in pengar i din stadsbank
+>>- **withdraw (mynt)** | Ta ut pengar från din stadsbank
+>>- **deposit (mynt)** | Sätt in pengar i din stadsbank
 >>- **buy**
 >>	- **bonus (antal)** | Köp tillgängliga bonus tomter
 >>- **delete** | Ta bort din stad och all data som tillhör den
@@ -195,7 +195,7 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>	- **mayor (invånare)** | Ge borgmästare statusen till en annan invånare
 >>	- **homeblock** | Sätt hemblock och spawn för din stad
 >>	- **spawn** | Sätt stadens spawn. Måste göras inom ett hemblock
->>	- **spawncost ($)** | Bestäm vad det ska kosta att teleportera till en publik stad. Invånare, nation medlemmar och allierade påverkas ej
+>>	- **spawncost (mynt)** | Bestäm vad det ska kosta att teleportera till en publik stad. Invånare, nation medlemmar och allierade påverkas ej
 >>	- **name (namn)** | Ändra din stads namn
 >>	- **outpost** | Ändrar outpostens spawn till platsen du står på. Måste användas inom en existerande outpost tomt
 >>	- **jail** | Ändrar fängelsetomtens spawn till platsen du står på. Måste användas inom en existerande fängelsetomt
@@ -207,13 +207,13 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>		- **reset** | Tar alla tillstånd från /town och tillämpar på alla tomter som staden äger
 >>   - **tag {upto4character}** - Ange stadens tagg, som i vissa fall används i chatten.
 >>       - **clear** - Tar bort stadens tagg
->>	- **taxes ($)** | Bestämmer hur mycket skatt som ska samlas in från varje invånare dagligen. Sätter även % om skattprocent är aktiverat
->>	- **taxpercentcap ($)** | Den maximala summan som kan bli insamlad när skattprocent är aktiverat
->>	- **plotprice ($)** | Bestämmer standard kostnad på tomter i staden
->>	- **shopprice ($)** | Bestämmer standard konstnad på affärtomter i staden
->>	- **shoptax ($)** | Bestämmer hur mycket skatt varje invånare ska betala per affärstomt de äger
->>	- **embassyprice ($)** | Bestämmer hur mycket en embassadtomt ska kosta
->>	- **embassytax ($)** | Bestämmer hur mycket skatt det ska kosta per dag per embassadtomt spelare äger
+>>	- **taxes (mynt)** | Bestämmer hur mycket skatt som ska samlas in från varje invånare dagligen. Sätter även % om skattprocent är aktiverat
+>>	- **taxpercentcap (mynt)** | Den maximala summan som kan bli insamlad när skattprocent är aktiverat
+>>	- **plotprice (mynt)** | Bestämmer standard kostnad på tomter i staden
+>>	- **shopprice (mynt)** | Bestämmer standard konstnad på affärtomter i staden
+>>	- **shoptax (mynt)** | Bestämmer hur mycket skatt varje invånare ska betala per affärstomt de äger
+>>	- **embassyprice (mynt)** | Bestämmer hur mycket en embassadtomt ska kosta
+>>	- **embassytax (mynt)** | Bestämmer hur mycket skatt det ska kosta per dag per embassadtomt spelare äger
 >>	- **title (namn) (titelhär)** | Borgmästaren kan med detta kommando ge en invånare en titel
 >>	- **surname (namn) (andranamn)** | Borgmästaren kan med detta kommando ge en invånare ett andranamn
 >>- **toggle**
@@ -241,9 +241,9 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>- **online** | Visar vem som är online i din nation
 >>- **(nation)** | Visar information om en annan nation än den du är med i
 >>- **leave** | Lämna din nuvarande nation. Endast borgmästare kan använda detta kommando
->>- **withdraw ($)** | Ta ut pengar från din nationsbank
->>- **deposit ($)** | Sätt in pengar i din nationsbank
->>- **deposit ($) (stad)** | Sätt in pengar i en stad som är med i nationen
+>>- **withdraw (mynt)** | Ta ut pengar från din nationsbank
+>>- **deposit (mynt)** | Sätt in pengar i din nationsbank
+>>- **deposit (mynt) (stad)** | Sätt in pengar i en stad som är med i nationen
 >>- **new (namn)** | Skapa en ny nation
 >>- **rank** | Kommando för att sätta assistant/egen rank i nationen
 >>- **add (stad) .. (stad)** | Bjuder in/lägger till städer i din nation
@@ -261,7 +261,7 @@ Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 >>	- **king (invånare)** | Kröna en invånare till kung
 >>	- **capital (stad)** | Sätt huvudstad och kung i nationen
 >>	- **board (meddelande)** | Visa ett meddelande för invånare varje gång de loggar in
->>	- **taxes ($)** | Bestämmer hur mycket skatt som skall samlas in från städer varje dag
+>>	- **taxes (mynt)** | Bestämmer hur mycket skatt som skall samlas in från städer varje dag
 >>	- **name (namn)** | Byt nationens namn
 >>	- **spawn** | Bestäm vart nationens spawn ska vara
 >>	- **spawncost** | Bestäm vad det ska kosta att teleportera till en publik nation. Invånare, nation medlemmar och allierade påverkas ej
