@@ -8,6 +8,7 @@ För att sedan få mer flygtid så måste man köpa detta för mynt i **/warp sh
 >  
 >För att aktivera fly skriver du **/fly** och efter det kan du flyga som i creative.  
 Man kan som max ha **30h/108000 sekunder** flygtid.  
+Du kan alltid kolla hur mycket flygtid du har med **/flightcharge**
 Den tiden du inte förbrukar sparas
 > 
 >Om man köper en epic nyckel så kan man vinna <ins>"Scroll of flying"</ins> som ger dig 2h extra flygtid.
