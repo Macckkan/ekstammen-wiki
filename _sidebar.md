@@ -17,6 +17,7 @@
   - [Affär](spawn/affär.md)
   - [Kistor](spawn/kistor.md)
   - [NPC](spawn/npc.md)
+  - [Casinot](spawn/casino.md)
 
 - [**<ins>Plugins**](plugins/README.md)
   - [Towny](plugins/towny.md)
