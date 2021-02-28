@@ -21,5 +21,5 @@ Du vänsterklickar för att köpa och högerklickar för att sälja
 - Slots    : Det finns tre olika maskiner, varje maskin har olika stora vinster.
 - Tärning  : Kasta tärning, du vinner på allt över fyra.
 
-## Jackpot!!!
+## Jackpot!!!  
 Alla våra spel har jackpot allt från 20-100 spelmarker.
