@@ -6,16 +6,16 @@ Du kan enkelt ta dig till dom via **/warp crates**
 Om du vänsterklickar på dem så kan du se vad det finns för vinster  
 
 ### Vanlig kista
-<img src="../bilder/votecrate.png" width="200" height="200">  
+<img src="../bilder/votecrate.png" width="200" height="200"/>  
   
 ### Epic kista
-<img src="../bilder/epiccrate.png" width="200" height="200">  
+<img src="../bilder/epiccrate.png" width="200" height="200"/>  
   
 ### Legendary kista
-<img src="../bilder/legendarycrate.png" width="200" height="200">  
+<img src="../bilder/legendarycrate.png" width="200" height="200"/>  
   
 ### Hemliga kistor
-<img src="../bilder/hemlig_kista.png" width="200" height="200">  
+<img src="../bilder/hemlig_kista.png" width="200" height="200"/>  
   
 ## <ins>Nycklar</ins>
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
