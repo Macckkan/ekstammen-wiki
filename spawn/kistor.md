@@ -30,7 +30,7 @@ Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
 >Legendary nycklar kan du endast vinna i [Epic kistan](epic-crate)  
   
 ### Hemlig nyckel  
-<img src="../bilder/hemlig_nyckel.png">
+<img src="../bilder/hemlig_nyckel.png"/>
   
 >En hemlig nyckel kan du få via vote kistan.  
 >Dessa används till gömda kistor som finns runt om i spawn.  
