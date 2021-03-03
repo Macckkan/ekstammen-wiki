@@ -1,7 +1,7 @@
 # Kistor
 
 ## <ins>Kistor</ins>
-Alla kistor finns i spawn.  
+Alla kistor finns i spawns.  
 Du kan enkelt ta dig till dom via **/warp crates**  
 Om du vänsterklickar på dem så kan du se vad det finns för vinster  
 
