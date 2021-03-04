@@ -7,16 +7,20 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
 
 ### Vanlig kista  
 <img src="../bilder/votecrate.png" width="200" height="200">  
-  
+s  
+
 ### Epic kista  
 <img src="../bilder/epiccrate.png" width="200" height="200">  
-  
+s  
+
 ### Legendary kista  
 <img src="../bilder/legendarycrate.png" width="200" height="200">  
-  
+s  
+
 ### Hemliga kistor  
-<img src="../bilder/hemlig_kista.png" width="200" height="200">  
-  
+<img src="../bilder/hemlig_kista.png" width="200" height="200">   
+s  
+
 ## <ins>Nycklar</ins>  
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.  
 s  
@@ -33,7 +37,7 @@ s
 s  
 ### Hemlig nyckel  
 s  
-<img src="../bilder/hemlig_nyckel.png">   
+<img src="../bilder/hemlig_nyckel.png">  
 s  
 
 >En hemlig nyckel kan du få via vote kistan.  
