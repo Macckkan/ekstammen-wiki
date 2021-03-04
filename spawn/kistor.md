@@ -24,22 +24,20 @@ s
 
 ## <ins>Nycklar</ins>  
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.  
-s  
-
+  
 ### Vanlig  
->När man [röstar](/?id=rösta) får man en votenyckel.  
-s  
+>När man [röstar](/?id=rösta) får man en votenyckel.   
   
 ### Epic  
 >Epic nycklar går att köpa med [tokens](tokens).  
-s  
+  
 ### Legendary  
 >Legendary nycklar kan du endast vinna i [Epic kistan](epic-crate)  
-s  
+  
 ### Hemlig nyckel  
-s  
+  
 <img src="../bilder/hemlig_nyckel.png">  
-s  
+  
 
 >En hemlig nyckel kan du få via vote kistan.  
 >Dessa används till gömda kistor som finns runt om i spawn.  
