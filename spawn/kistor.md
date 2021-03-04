@@ -16,6 +16,7 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
   
 ### Hemliga kistor  
 <img src="../bilder/hemlig_kista.png" width="200" height="200">  
+=======
   
 ## <ins>Nycklar</ins>  
 Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.  
@@ -30,7 +31,9 @@ Alla nycklar går att använda i **/warp crates** med undantag av hemlig nyckel.
 >Legendary nycklar kan du endast vinna i [Epic kistan](epic-crate)  
   
 ### Hemlig nyckel  
+  
 <img src="../bilder/hemlig_nyckel.png">  
+=======  
   
 >En hemlig nyckel kan du få via vote kistan.  
 >Dessa används till gömda kistor som finns runt om i spawn.  
