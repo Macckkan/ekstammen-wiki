@@ -7,7 +7,7 @@ Om du vänsterklickar på dem så kan du se vad det finns för vinster
 
 ### Vanlig kista  
 <img src="../bilder/votecrate.png" width="200" height="200">  
-  
+En vanlig kista  
   
 ### Epic kista  
 <img src="../bilder/epiccrate.png" width="200" height="200">  
