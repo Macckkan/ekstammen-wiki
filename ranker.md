@@ -25,8 +25,8 @@
 >Twitch är en rank som vissa utvalda Twitchstreamers har fått.
 >Dessa personer är ambassadörer för vår server och vår community.
 
-## <ins>Chattvakt</ins>  
->Chattvakt är oftast det första steget in i staff.  
+## <ins>Ekvakt</ins>  
+>Ekvakt är oftast det första steget in i staff.  
 >De som har denna rank har som huvudsyssla att se till att chatten hålls trevlig.  
 >De kan kicka, banna och tysta spelare men endast under kortare tid.  
 
