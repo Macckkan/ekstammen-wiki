@@ -19,7 +19,7 @@ s
 s  
 
 ### Hemliga kistor  
-<img src="../bilder/hemlig_kista.png" width="200" height="200">   
+<img src="../bilder/Hemligkista1.png" width="200" height="200">   
 s  
 
 ## <ins>Nycklar</ins>  
