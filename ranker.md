@@ -26,14 +26,14 @@
 >Twitch är en rank som vissa utvalda Twitchstreamers har fått.
 >Dessa personer är ambassadörer för vår server och vår community.
 
-## <ins>Ekvakt</ins>  
->Ekvakt är oftast det första steget in i staff.  
+## <ins>Chattvakt</ins>  
+>Chattvakt är oftast det första steget in i staff.  
 >De som har denna rank har som huvudsyssla att se till att chatten hålls trevlig.  
 >De kan kicka, banna och tysta spelare men endast under kortare tid.  
 
-## <ins>Mod</ins>  
->Moderatorer kan göra allt som chattvakter kan och mer därtill.  
+## <ins>Ekvakt</ins>  
+>Ekvakter kan göra allt som chattvakter kan och mer därtill.  
 Dessa har inte samma begränsning när det gäller att banna och tysta och de kan bland annat kolla vem som förstört block.  
 
 ## <ins>Admin</ins>  
->Admins kan göra allt.  
+>Administratörer är dom som har högsta befogenhet.  
