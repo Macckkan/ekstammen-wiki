@@ -20,11 +20,21 @@ Om du vill byta företag och syssla med något annat så kan du prata med någon
 ## Våra företag
 **Bosses stenbrott**
 
+Om det är mining du vill syssla med så är Bosses stenbrott företaget För dig.
+Bosse betalar pengar till alla miners där ute.
+
 **Wilmas bönder**
+
+Om det är plantera och skörda grönska, hugga ner träd, ta hand om djur som du tycker är roligast så är det Wilmas bönder du ska arbeta för. Hon betalar nämligen ut pengar till alla bönder på servern.
 
 **Bullens bygg**
 
+Är bygga sin stora passion i minecraft? Då är det Bullens bygg du sak vända dig till. Bullen betalar den som bygger.
+
 **Kents jaktstuga**
+
+Är du som Kent och gillar att fiska, jaga, enchanta och brygga magiska drycker-
+Då är Kents jaktstuga det självklara valet för dig.
 
 
 ## Snabb guide "Börja arbeta"
