@@ -20,4 +20,4 @@ Andra "hjälpmedel"
 - **vte** | Skriver ut "Välkommen till Ekstammen!"
 - **hemlig nyckel** | Skickar ut ett meddelande om våra hemliga nycklar
 
-
+Condro är bäst.
