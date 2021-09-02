@@ -28,3 +28,5 @@
   - [CMI](plugins/cmi.md)
   - [PlayerShopGui+](plugins/playershopgui.md)
   - [MobFarmManager](plugins/mfm.md)
+- [**<ins>SMP**](/)
+  - [Start](SMP.md)
