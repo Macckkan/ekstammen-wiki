@@ -7,4 +7,4 @@ Servern är inställd på hard
 Mellan 22-28e mars är keepinventory avstängt.
 
 <ins>*Hur mycket kostar det att byta namn på en stad?*</ins>  
-$20 000
+20 000 mynt
